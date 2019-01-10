@@ -88,22 +88,22 @@
 
 
 
-<meta name="description" content="一、安装php7.31.运行命令    brew search php7.3查看是否有7.3版本的php，正常是存在的，然后执行安装    brew install php@7.3安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下">
+<meta name="description" content="一、安装php7.31、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)">
 <meta property="og:url" content="https://selfgod.github.io/2019/01/10/lnmp-make/index.html">
 <meta property="og:site_name" content="Hexo">
-<meta property="og:description" content="一、安装php7.31.运行命令    brew search php7.3查看是否有7.3版本的php，正常是存在的，然后执行安装    brew install php@7.3安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下">
+<meta property="og:description" content="一、安装php7.31、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/WX20190110-135803.png">
 <meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/1547100608023.jpg">
 <meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/1547100734305.jpg">
 <meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/WX20190110-144533.png">
 <meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/1547101508207.jpg">
-<meta property="og:updated_time" content="2019-01-10T08:58:39.132Z">
+<meta property="og:updated_time" content="2019-01-10T09:01:54.402Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)">
-<meta name="twitter:description" content="一、安装php7.31.运行命令    brew search php7.3查看是否有7.3版本的php，正常是存在的，然后执行安装    brew install php@7.3安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下">
+<meta name="twitter:description" content="一、安装php7.31、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php">
 <meta name="twitter:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/WX20190110-135803.png">
 
 
@@ -414,7 +414,13 @@
       
 
       
-        <h3 id="一、安装php7-3"><a href="#一、安装php7-3" class="headerlink" title="一、安装php7.3"></a>一、安装php7.3</h3><p>1.运行命令<br>    brew search php7.3<br>查看是否有7.3版本的php，正常是存在的，然后执行安装<br>    brew install <a href="mailto:php@7.3" target="_blank" rel="noopener">php@7.3</a><br>安装后再次执行brew search php7.3，可以查看到当前已经安装成功<img src="/2019/01/10/lnmp-make/WX20190110-135803.png" alt=""><br>cd 到该版本php的执行目录下，<img src="/2019/01/10/lnmp-make/1547100608023.jpg" alt="">，发现已经安装好了pear、pecl和phpize<br><img src="/2019/01/10/lnmp-make/1547100734305.jpg" alt="">，然后可以查看下php中已经启用的扩展信息，当前目录下<br>    ./php -m<br>为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是<a href="http://www.conf文件）" target="_blank" rel="noopener">www.conf文件）</a><br>    vim /usr/local/etc/php/7.3/php-fpm.d/<a href="http://www.conf" target="_blank" rel="noopener">www.conf</a><br>修改，<img src="/2019/01/10/lnmp-make/WX20190110-144533.png" alt="">,这里为了举例，姑且改为9073。<br>开启守护进程，打开<br>    vim /usr/local/etc/php/7.3/php-fpm.conf<br>修改 ，<img src="/2019/01/10/lnmp-make/1547101508207.jpg" alt="">，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了<br>设置软连接<br>    ln -s  /usr/local/Cellar/php/7.3.0_1/sbin/php-fpm   /usr/local/bin/php-fpm73<br>这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看</p>
+        <h3 id="一、安装php7-3"><a href="#一、安装php7-3" class="headerlink" title="一、安装php7.3"></a>一、安装php7.3</h3><p>1、运行命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew search php7.3</span><br></pre></td></tr></table></figure></p>
+<p>查看是否有7.3版本的php，正常是存在的，然后执行安装<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install php@7.3</span><br></pre></td></tr></table></figure></p>
+<p>安装后再次执行brew search php7.3，可以查看到当前已经安装成功<img src="/2019/01/10/lnmp-make/WX20190110-135803.png" alt=""><br>cd 到该版本php的执行目录下，<img src="/2019/01/10/lnmp-make/1547100608023.jpg" alt="">，发现已经安装好了pear、pecl和phpize<br><img src="/2019/01/10/lnmp-make/1547100734305.jpg" alt="">，然后可以查看下php中已经启用的扩展信息，当前目录下<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./php -m</span><br></pre></td></tr></table></figure></p>
+<p>2、为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是<a href="http://www.conf文件）" target="_blank" rel="noopener">www.conf文件）</a><br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/<span class="built_in">local</span>/etc/php/7.3/php-fpm.d/www.conf</span><br></pre></td></tr></table></figure></p>
+<p>修改，<img src="/2019/01/10/lnmp-make/WX20190110-144533.png" alt="">,这里为了举例，姑且改为9073。<br>3、开启守护进程，打开<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/<span class="built_in">local</span>/etc/php/7.3/php-fpm.conf</span><br></pre></td></tr></table></figure></p>
+<p>修改 ，<img src="/2019/01/10/lnmp-make/1547101508207.jpg" alt="">，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了<br>4、设置软连接<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ln -s  /usr/<span class="built_in">local</span>/Cellar/php/7.3.0_1/sbin/php-fpm   /usr/<span class="built_in">local</span>/bin/php-fpm73</span><br></pre></td></tr></table></figure></p>
+<p>这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看</p>
 <h3 id="二、安装nginx"><a href="#二、安装nginx" class="headerlink" title="二、安装nginx"></a>二、安装nginx</h3>
       
     </div>

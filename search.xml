@@ -1,23 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)]]></title>
-    <url>%2F2019%2F01%2F10%2Flnmp-make%2F</url>
-    <content type="text"><![CDATA[一、安装php7.31.运行命令 brew search php7.3查看是否有7.3版本的php，正常是存在的，然后执行安装 brew install php@7.3安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下 ./php -m为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是www.conf文件） vim /usr/local/etc/php/7.3/php-fpm.d/www.conf修改，,这里为了举例，姑且改为9073。开启守护进程，打开 vim /usr/local/etc/php/7.3/php-fpm.conf修改 ，，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了设置软连接 ln -s /usr/local/Cellar/php/7.3.0_1/sbin/php-fpm /usr/local/bin/php-fpm73这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看 二、安装nginx]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[我的第一篇博客]]></title>
-    <url>%2F2019%2F01%2F08%2Ffirst-blog%2F</url>
-    <content type="text"><![CDATA[随便说点 下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊， 这里是我的github地址 我支持的球队- 还有最好的语言PHP 1&lt;?php echo 'HELLO WORLD'; ?&gt; 排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2019%2F01%2F08%2Ftest%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F01%2F03%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)</title>
+      <link href="/2019/01/10/lnmp-make/"/>
+      <url>/2019/01/10/lnmp-make/</url>
+      
+        <content type="html"><![CDATA[<h3 id="一、安装php7-3"><a href="#一、安装php7-3" class="headerlink" title="一、安装php7.3"></a>一、安装php7.3</h3><p>1、运行命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew search php7.3</span><br></pre></td></tr></table></figure></p><p>查看是否有7.3版本的php，正常是存在的，然后执行安装<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install php@7.3</span><br></pre></td></tr></table></figure></p><p>安装后再次执行brew search php7.3，可以查看到当前已经安装成功<img src="/2019/01/10/lnmp-make/WX20190110-135803.png" alt=""><br>cd 到该版本php的执行目录下，<img src="/2019/01/10/lnmp-make/1547100608023.jpg" alt="">，发现已经安装好了pear、pecl和phpize<br><img src="/2019/01/10/lnmp-make/1547100734305.jpg" alt="">，然后可以查看下php中已经启用的扩展信息，当前目录下<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./php -m</span><br></pre></td></tr></table></figure></p><p>2、为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是<a href="http://www.conf文件）" target="_blank" rel="noopener">www.conf文件）</a><br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/<span class="built_in">local</span>/etc/php/7.3/php-fpm.d/www.conf</span><br></pre></td></tr></table></figure></p><p>修改，<img src="/2019/01/10/lnmp-make/WX20190110-144533.png" alt="">,这里为了举例，姑且改为9073。<br>3、开启守护进程，打开<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/<span class="built_in">local</span>/etc/php/7.3/php-fpm.conf</span><br></pre></td></tr></table></figure></p><p>修改 ，<img src="/2019/01/10/lnmp-make/1547101508207.jpg" alt="">，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了<br>4、设置软连接<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ln -s  /usr/<span class="built_in">local</span>/Cellar/php/7.3.0_1/sbin/php-fpm   /usr/<span class="built_in">local</span>/bin/php-fpm73</span><br></pre></td></tr></table></figure></p><p>这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看</p><h3 id="二、安装nginx"><a href="#二、安装nginx" class="headerlink" title="二、安装nginx"></a>二、安装nginx</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2019/01/08/first-blog/"/>
+      <url>/2019/01/08/first-blog/</url>
+      
+        <content type="html"><![CDATA[<h1 id="随便说点"><a href="#随便说点" class="headerlink" title="随便说点"></a>随便说点</h1><ul><li>下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊，</li><li>这里是我的<a href="https://github.com/selfgod" title="GitHub地址" target="_blank" rel="noopener">github地址</a></li><li><p>我支持的球队<img src="/2019/01/08/first-blog/Juventus-5.jpg" alt="">- 还有最好的语言PHP</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;?php <span class="built_in">echo</span> <span class="string">'HELLO WORLD'</span>;  ?&gt;</span><br></pre></td></tr></table></figure></li><li><p>排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。</p></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test</title>
+      <link href="/2019/01/08/test/"/>
+      <url>/2019/01/08/test/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/01/03/hello-world/"/>
+      <url>/2019/01/03/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
