@@ -88,22 +88,23 @@
 
 
 
-<meta name="description" content="一、安装php7.31、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php">
+<meta name="description" content="一、安装php7.3（鉴于7.3的兼容性，目前以下步奏对7.2亲测无问题）1、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，1brew update ,然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)">
 <meta property="og:url" content="https://selfgod.github.io/2019/01/10/lnmp-make/index.html">
 <meta property="og:site_name" content="Hexo">
-<meta property="og:description" content="一、安装php7.31、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php">
+<meta property="og:description" content="一、安装php7.3（鉴于7.3的兼容性，目前以下步奏对7.2亲测无问题）1、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，1brew update ,然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/WX20190110-135803.png">
 <meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/1547100608023.jpg">
 <meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/1547100734305.jpg">
 <meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/WX20190110-144533.png">
 <meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/1547101508207.jpg">
-<meta property="og:updated_time" content="2019-01-10T09:01:54.402Z">
+<meta property="og:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/1547100608023.jpg">
+<meta property="og:updated_time" content="2019-01-11T06:27:47.815Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)">
-<meta name="twitter:description" content="一、安装php7.31、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php">
+<meta name="twitter:description" content="一、安装php7.3（鉴于7.3的兼容性，目前以下步奏对7.2亲测无问题）1、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，1brew update ,然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已">
 <meta name="twitter:image" content="https://selfgod.github.io/2019/01/10/lnmp-make/WX20190110-135803.png">
 
 
@@ -414,14 +415,29 @@
       
 
       
-        <h3 id="一、安装php7-3"><a href="#一、安装php7-3" class="headerlink" title="一、安装php7.3"></a>一、安装php7.3</h3><p>1、运行命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew search php7.3</span><br></pre></td></tr></table></figure></p>
-<p>查看是否有7.3版本的php，正常是存在的，然后执行安装<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install php@7.3</span><br></pre></td></tr></table></figure></p>
+        <h3 id="一、安装php7-3（鉴于7-3的兼容性，目前以下步奏对7-2亲测无问题）"><a href="#一、安装php7-3（鉴于7-3的兼容性，目前以下步奏对7-2亲测无问题）" class="headerlink" title="一、安装php7.3（鉴于7.3的兼容性，目前以下步奏对7.2亲测无问题）"></a>一、安装php7.3（鉴于7.3的兼容性，目前以下步奏对7.2亲测无问题）</h3><p>1、运行命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew search php7.3</span><br></pre></td></tr></table></figure></p>
+<p>查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew update</span><br></pre></td></tr></table></figure></p>
+<p>,然后执行安装<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install php@7.3</span><br></pre></td></tr></table></figure></p>
 <p>安装后再次执行brew search php7.3，可以查看到当前已经安装成功<img src="/2019/01/10/lnmp-make/WX20190110-135803.png" alt=""><br>cd 到该版本php的执行目录下，<img src="/2019/01/10/lnmp-make/1547100608023.jpg" alt="">，发现已经安装好了pear、pecl和phpize<br><img src="/2019/01/10/lnmp-make/1547100734305.jpg" alt="">，然后可以查看下php中已经启用的扩展信息，当前目录下<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./php -m</span><br></pre></td></tr></table></figure></p>
 <p>2、为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是<a href="http://www.conf文件）" target="_blank" rel="noopener">www.conf文件）</a><br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/<span class="built_in">local</span>/etc/php/7.3/php-fpm.d/www.conf</span><br></pre></td></tr></table></figure></p>
 <p>修改，<img src="/2019/01/10/lnmp-make/WX20190110-144533.png" alt="">,这里为了举例，姑且改为9073。<br>3、开启守护进程，打开<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/<span class="built_in">local</span>/etc/php/7.3/php-fpm.conf</span><br></pre></td></tr></table></figure></p>
 <p>修改 ，<img src="/2019/01/10/lnmp-make/1547101508207.jpg" alt="">，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了<br>4、设置软连接<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ln -s  /usr/<span class="built_in">local</span>/Cellar/php/7.3.0_1/sbin/php-fpm   /usr/<span class="built_in">local</span>/bin/php-fpm73</span><br></pre></td></tr></table></figure></p>
 <p>这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看</p>
-<h3 id="二、安装nginx"><a href="#二、安装nginx" class="headerlink" title="二、安装nginx"></a>二、安装nginx</h3>
+<h3 id="二、安装nginx"><a href="#二、安装nginx" class="headerlink" title="二、安装nginx"></a>二、安装nginx</h3><h3 id="三、安装mysql"><a href="#三、安装mysql" class="headerlink" title="三、安装mysql"></a>三、安装mysql</h3><h3 id="四、安装php扩展swoole，xdebug，igbinary，redis"><a href="#四、安装php扩展swoole，xdebug，igbinary，redis" class="headerlink" title="四、安装php扩展swoole，xdebug，igbinary，redis"></a>四、安装php扩展swoole，xdebug，igbinary，redis</h3><p>cd 到该版本php的执行目录下，<img src="/2019/01/10/lnmp-make/1547100608023.jpg" alt="">，<br>注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。<br>1、swoole安装<br>执行</p>
+<pre><code class="bash">sudo ./pecl install swoole
+</code></pre>
+<p>如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。<br>然后一路回车即可。可以参考知乎文章<br><a href="https://zhuanlan.zhihu.com/p/35974610" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/35974610</a></p>
+<p>2、xdebug安装<br>执行</p>
+<pre><code class="bash">sudo ./pecl install swoole
+</code></pre>
+<p>3、igbinary安装<br>执行</p>
+<pre><code class="bash">sudo ./pecl install igbinary
+</code></pre>
+<p>4、redis安装<br>执行</p>
+<pre><code class="bash">sudo ./pecl install redis
+</code></pre>
+<p>安装扩展后会自动写入配置，无需再修改配置文件</p>
+<h3 id="五、配置并联合启动"><a href="#五、配置并联合启动" class="headerlink" title="五、配置并联合启动"></a>五、配置并联合启动</h3>
       
     </div>
     
@@ -647,7 +663,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一、安装php7-3"><span class="nav-number">1.</span> <span class="nav-text">一、安装php7.3</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#二、安装nginx"><span class="nav-number">2.</span> <span class="nav-text">二、安装nginx</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一、安装php7-3（鉴于7-3的兼容性，目前以下步奏对7-2亲测无问题）"><span class="nav-number">1.</span> <span class="nav-text">一、安装php7.3（鉴于7.3的兼容性，目前以下步奏对7.2亲测无问题）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#二、安装nginx"><span class="nav-number">2.</span> <span class="nav-text">二、安装nginx</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#三、安装mysql"><span class="nav-number">3.</span> <span class="nav-text">三、安装mysql</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#四、安装php扩展swoole，xdebug，igbinary，redis"><span class="nav-number">4.</span> <span class="nav-text">四、安装php扩展swoole，xdebug，igbinary，redis</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#五、配置并联合启动"><span class="nav-number">5.</span> <span class="nav-text">五、配置并联合启动</span></a></li></ol></div>
             
 
           </div>
