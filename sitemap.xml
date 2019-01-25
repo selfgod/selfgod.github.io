@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://selfgod.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-01-25T09:22:52.562Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://selfgod.github.io/2019/01/10/lnmp-make/</loc>
     
-    <lastmod>2019-01-11T06:27:47.815Z</lastmod>
+    <lastmod>2019-01-25T09:17:12.413Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://selfgod.github.io/categories/index.html</loc>
+    
+    <lastmod>2019-01-25T09:06:10.051Z</lastmod>
     
   </url>
   
