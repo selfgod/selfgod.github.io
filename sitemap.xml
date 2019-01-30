@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://selfgod.github.io/2019/01/30/nginx-develop/</loc>
+    
+    <lastmod>2019-01-30T09:10:47.375Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://selfgod.github.io/2019/01/30/tools/</loc>
     
-    <lastmod>2019-01-30T06:56:40.234Z</lastmod>
+    <lastmod>2019-01-30T08:32:53.351Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://selfgod.github.io/2019/01/30/thinkphp/</loc>
+    
+    <lastmod>2019-01-30T07:59:00.156Z</lastmod>
     
   </url>
   
@@ -40,13 +54,6 @@
     <loc>https://selfgod.github.io/2019/01/30/workerman/</loc>
     
     <lastmod>2019-01-30T00:47:36.436Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://selfgod.github.io/2019/01/30/thinkphp/</loc>
-    
-    <lastmod>2019-01-30T00:47:36.435Z</lastmod>
     
   </url>
   

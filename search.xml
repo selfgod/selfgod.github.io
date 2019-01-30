@@ -11,7 +11,7 @@
   <entry>
     <title><![CDATA[ThinkPHP]]></title>
     <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
-    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册2、thinkphp5-restfulapi]]></content>
+    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
       <categories>
         <category>php</category>
       </categories>
@@ -34,17 +34,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Composer]]></title>
-    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
-    <content type="text"><![CDATA[Composer中文文档]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[HEXO]]></title>
     <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
     <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
@@ -53,6 +42,17 @@
       </categories>
       <tags>
         <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[nginx模块开发篇]]></title>
+    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
+    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇]]></content>
+      <categories>
+        <category>服务器及环境搭建</category>
+      </categories>
+      <tags>
+        <tag>nginx</tag>
       </tags>
   </entry>
   <entry>
@@ -69,6 +69,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Composer]]></title>
+    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
+    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[api设计有关]]></title>
     <url>%2F2019%2F01%2F30%2Fapi-design%2F</url>
     <content type="text"><![CDATA[RESTful API1、ESTful API 最佳实践]]></content>
@@ -78,17 +89,6 @@
       <tags>
         <tag>php</tag>
         <tag>api</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[git]]></title>
-    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
-    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
-      <categories>
-        <category>git</category>
-      </categories>
-      <tags>
-        <tag>git</tag>
       </tags>
   </entry>
   <entry>
@@ -102,6 +102,17 @@
         <tag>php</tag>
         <tag>nginx</tag>
         <tag>php扩展</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[git]]></title>
+    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
+    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
       </tags>
   </entry>
   <entry>
