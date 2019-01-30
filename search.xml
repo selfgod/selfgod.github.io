@@ -23,11 +23,11 @@
     
     
     <entry>
-      <title>ThinkPHP</title>
-      <link href="/2019/01/30/thinkphp/"/>
-      <url>/2019/01/30/thinkphp/</url>
+      <title>workerman</title>
+      <link href="/2019/01/30/workerman/"/>
+      <url>/2019/01/30/workerman/</url>
       
-        <content type="html"><![CDATA[<h3 id="thinkphp5-1"><a href="#thinkphp5-1" class="headerlink" title="thinkphp5.1"></a>thinkphp5.1</h3><p>1、<a href="https://www.kancloud.cn/manual/thinkphp5_1/353946" target="_blank" rel="noopener">TP5.1完全开发手册</a><br>2、<a href="https://github.com/selfgod/thinkphp5-restfulapi" target="_blank" rel="noopener">thinkphp5-restfulapi</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="workerman"><a href="#workerman" class="headerlink" title="workerman"></a>workerman</h3><p>1、<a href="https://www.workerman.net/" target="_blank" rel="noopener">workerman官网</a></p><h3 id="workerman-thrift-rpc"><a href="#workerman-thrift-rpc" class="headerlink" title="workerman-thrift-rpc"></a>workerman-thrift-rpc</h3><p>1、<a href="https://www.workerman.net/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc官网</a><br>2、<a href="https://github.com/selfgod/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc GITHUB</a></p>]]></content>
       
       
       <categories>
@@ -79,11 +79,36 @@
     
     
     <entry>
-      <title>workerman</title>
-      <link href="/2019/01/30/workerman/"/>
-      <url>/2019/01/30/workerman/</url>
+      <title>HEXO</title>
+      <link href="/2019/01/30/HEXO/"/>
+      <url>/2019/01/30/HEXO/</url>
       
-        <content type="html"><![CDATA[<h3 id="workerman"><a href="#workerman" class="headerlink" title="workerman"></a>workerman</h3><p>1、<a href="https://www.workerman.net/" target="_blank" rel="noopener">workerman官网</a></p><h3 id="workerman-thrift-rpc"><a href="#workerman-thrift-rpc" class="headerlink" title="workerman-thrift-rpc"></a>workerman-thrift-rpc</h3><p>1、<a href="https://www.workerman.net/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc官网</a><br>2、<a href="https://github.com/selfgod/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc GITHUB</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="HEXO"><a href="#HEXO" class="headerlink" title="HEXO"></a>HEXO</h3><p>1、<a href="https://github.com/Jamling/hexo-generator-index2/blob/master/README_zh.md" target="_blank" rel="noopener">带过滤功能的Hexo首页生成器插件</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ThinkPHP</title>
+      <link href="/2019/01/30/thinkphp/"/>
+      <url>/2019/01/30/thinkphp/</url>
+      
+        <content type="html"><![CDATA[<h3 id="thinkphp5-1"><a href="#thinkphp5-1" class="headerlink" title="thinkphp5.1"></a>thinkphp5.1</h3><p>1、<a href="https://www.kancloud.cn/manual/thinkphp5_1/353946" target="_blank" rel="noopener">TP5.1完全开发手册</a><br>2、<a href="https://github.com/selfgod/thinkphp5-restfulapi" target="_blank" rel="noopener">thinkphp5-restfulapi</a></p>]]></content>
       
       
       <categories>
@@ -108,23 +133,23 @@
     
     
     <entry>
-      <title>HEXO</title>
-      <link href="/2019/01/30/HEXO/"/>
-      <url>/2019/01/30/HEXO/</url>
+      <title>工具</title>
+      <link href="/2019/01/30/tools/"/>
+      <url>/2019/01/30/tools/</url>
       
-        <content type="html"><![CDATA[<h3 id="HEXO"><a href="#HEXO" class="headerlink" title="HEXO"></a>HEXO</h3><p>1、<a href="https://github.com/Jamling/hexo-generator-index2/blob/master/README_zh.md" target="_blank" rel="noopener">带过滤功能的Hexo首页生成器插件</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="TOOLS"><a href="#TOOLS" class="headerlink" title="TOOLS"></a>TOOLS</h3><p>1、<a href="https://www.kancloud.cn/thinkphp/composer/35668" target="_blank" rel="noopener">Composer中文文档</a></p>]]></content>
       
       
       <categories>
           
-          <category> 博客 </category>
+          <category> 工具 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> hexo </tag>
+            <tag> 工具 </tag>
             
         </tags>
       
@@ -160,31 +185,6 @@
     
     
     <entry>
-      <title>git</title>
-      <link href="/2019/01/10/git/"/>
-      <url>/2019/01/10/git/</url>
-      
-        <content type="html"><![CDATA[<h3 id="git方面的知识总结"><a href="#git方面的知识总结" class="headerlink" title="git方面的知识总结"></a>git方面的知识总结</h3><p>1、<a href="https://www.cnblogs.com/sdgf/p/6237847.html" target="_blank" rel="noopener">git 换行符LF与CRLF转换问题</a><br>2、<a href="https://www.jianshu.com/p/93b63852f0b3" target="_blank" rel="noopener">Hexo博客之速度优化</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> git </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> git </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)</title>
       <link href="/2019/01/10/lnmp-make/"/>
       <url>/2019/01/10/lnmp-make/</url>
@@ -206,6 +206,31 @@
             <tag> nginx </tag>
             
             <tag> php扩展 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git</title>
+      <link href="/2019/01/10/git/"/>
+      <url>/2019/01/10/git/</url>
+      
+        <content type="html"><![CDATA[<h3 id="git方面的知识总结"><a href="#git方面的知识总结" class="headerlink" title="git方面的知识总结"></a>git方面的知识总结</h3><p>1、<a href="https://www.cnblogs.com/sdgf/p/6237847.html" target="_blank" rel="noopener">git 换行符LF与CRLF转换问题</a><br>2、<a href="https://www.jianshu.com/p/93b63852f0b3" target="_blank" rel="noopener">Hexo博客之速度优化</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> git </tag>
             
         </tags>
       
