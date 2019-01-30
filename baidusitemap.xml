@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://selfgod.github.io/2019/01/30/index/</loc>
+    <lastmod>2019-01-30</lastmod>
+  </url>  <url>
     <loc>https://selfgod.github.io/2019/01/10/lnmp-make/</loc>
-    <lastmod>2019-01-25</lastmod>
+    <lastmod>2019-01-30</lastmod>
+  </url>  <url>
+    <loc>https://selfgod.github.io/2019/01/10/git/</loc>
+    <lastmod>2019-01-30</lastmod>
+  </url>  <url>
+    <loc>https://selfgod.github.io/2019/01/30/workerman/</loc>
+    <lastmod>2019-01-30</lastmod>
+  </url>  <url>
+    <loc>https://selfgod.github.io/2019/01/30/thinkphp/</loc>
+    <lastmod>2019-01-30</lastmod>
   </url>  <url>
     <loc>https://selfgod.github.io/2019/01/08/first-blog/</loc>
-    <lastmod>2019-01-10</lastmod>
+    <lastmod>2019-01-30</lastmod>
+  </url>  <url>
+    <loc>https://selfgod.github.io/2019/01/30/easyswoole/</loc>
+    <lastmod>2019-01-30</lastmod>
+  </url>  <url>
+    <loc>https://selfgod.github.io/2019/01/30/api-design/</loc>
+    <lastmod>2019-01-30</lastmod>
+  </url>  <url>
+    <loc>https://selfgod.github.io/2019/01/30/HEXO/</loc>
+    <lastmod>2019-01-30</lastmod>
   </url>  <url>
     <loc>https://selfgod.github.io/2019/01/08/test/</loc>
     <lastmod>2019-01-08</lastmod>

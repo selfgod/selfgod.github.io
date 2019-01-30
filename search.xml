@@ -4,6 +4,162 @@
   
     
     <entry>
+      <title>欢迎来到我的博客</title>
+      <link href="/2019/01/30/index/"/>
+      <url>/2019/01/30/index/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2019/01/30/index/index_dog1.jpeg" alt=""></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 首页 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HEXO</title>
+      <link href="/2019/01/30/HEXO/"/>
+      <url>/2019/01/30/HEXO/</url>
+      
+        <content type="html"><![CDATA[<h3 id="HEXO"><a href="#HEXO" class="headerlink" title="HEXO"></a>HEXO</h3><p>1、<a href="https://github.com/Jamling/hexo-generator-index2/blob/master/README_zh.md" target="_blank" rel="noopener">带过滤功能的Hexo首页生成器插件</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>easyswoole</title>
+      <link href="/2019/01/30/easyswoole/"/>
+      <url>/2019/01/30/easyswoole/</url>
+      
+        <content type="html"><![CDATA[<h3 id="easyswoole"><a href="#easyswoole" class="headerlink" title="easyswoole"></a>easyswoole</h3><p>1、<a href="https://www.easyswoole.com/" target="_blank" rel="noopener">easyswoole官网</a><br>2、<a href="https://github.com/selfgod/easyswoole" target="_blank" rel="noopener">easyswoole GITHUB</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> php </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> php </tag>
+            
+            <tag> 框架 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>workerman</title>
+      <link href="/2019/01/30/workerman/"/>
+      <url>/2019/01/30/workerman/</url>
+      
+        <content type="html"><![CDATA[<h3 id="workerman"><a href="#workerman" class="headerlink" title="workerman"></a>workerman</h3><p>1、<a href="https://www.workerman.net/" target="_blank" rel="noopener">workerman官网</a></p><h3 id="workerman-thrift-rpc"><a href="#workerman-thrift-rpc" class="headerlink" title="workerman-thrift-rpc"></a>workerman-thrift-rpc</h3><p>1、<a href="https://www.workerman.net/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc官网</a><br>2、<a href="https://github.com/selfgod/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc GITHUB</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> php </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> php </tag>
+            
+            <tag> api </tag>
+            
+            <tag> 框架 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ThinkPHP</title>
+      <link href="/2019/01/30/thinkphp/"/>
+      <url>/2019/01/30/thinkphp/</url>
+      
+        <content type="html"><![CDATA[<h3 id="thinkphp5-1"><a href="#thinkphp5-1" class="headerlink" title="thinkphp5.1"></a>thinkphp5.1</h3><p>1、<a href="https://www.kancloud.cn/manual/thinkphp5_1/353946" target="_blank" rel="noopener">TP5.1完全开发手册</a><br>2、<a href="https://github.com/selfgod/thinkphp5-restfulapi" target="_blank" rel="noopener">thinkphp5-restfulapi</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> php </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> php </tag>
+            
+            <tag> api </tag>
+            
+            <tag> 框架 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>api设计有关</title>
+      <link href="/2019/01/30/api-design/"/>
+      <url>/2019/01/30/api-design/</url>
+      
+        <content type="html"><![CDATA[<h3 id="RESTful-API"><a href="#RESTful-API" class="headerlink" title="RESTful API"></a>RESTful API</h3><p>1、<a href="http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html" target="_blank" rel="noopener">ESTful API 最佳实践</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> api设计 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> php </tag>
+            
+            <tag> api </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)</title>
       <link href="/2019/01/10/lnmp-make/"/>
       <url>/2019/01/10/lnmp-make/</url>
@@ -13,16 +169,43 @@
       
       <categories>
           
-          <category> 云服务器 </category>
+          <category> 服务器及环境搭建 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> centOS </tag>
+            <tag> php </tag>
             
-            <tag> tomcat </tag>
+            <tag> nginx </tag>
+            
+            <tag> php扩展 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git</title>
+      <link href="/2019/01/10/git/"/>
+      <url>/2019/01/10/git/</url>
+      
+        <content type="html"><![CDATA[<h3 id="git方面的知识总结"><a href="#git方面的知识总结" class="headerlink" title="git方面的知识总结"></a>git方面的知识总结</h3><p>1、<a href="https://www.cnblogs.com/sdgf/p/6237847.html" target="_blank" rel="noopener">git 换行符LF与CRLF转换问题</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> git </tag>
             
         </tags>
       
@@ -35,9 +218,15 @@
       <link href="/2019/01/08/first-blog/"/>
       <url>/2019/01/08/first-blog/</url>
       
-        <content type="html"><![CDATA[<h1 id="随便说点"><a href="#随便说点" class="headerlink" title="随便说点"></a>随便说点</h1><ul><li>下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊，</li><li>这里是我的<a href="https://github.com/selfgod" title="GitHub地址" target="_blank" rel="noopener">github地址</a></li><li><p>我支持的球队<img src="/2019/01/08/first-blog/Juventus-5.jpg" alt="">- 还有最好的语言PHP</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;?php <span class="built_in">echo</span> <span class="string">'HELLO WORLD'</span>;  ?&gt;</span><br></pre></td></tr></table></figure></li><li><p>排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。</p></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="随便说点"><a href="#随便说点" class="headerlink" title="随便说点"></a>随便说点</h1><ul><li>下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊，</li><li>这里是我的<a href="https://github.com/selfgod" title="GitHub地址" target="_blank" rel="noopener">github地址</a></li><li><p>我支持的球队<img src="/2019/01/08/first-blog/Juventus-5.jpg" alt="">- 还有最好的语言PHP</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;?php <span class="built_in">echo</span> <span class="string">'HELLO WORLD'</span>;  ?&gt;</span><br></pre></td></tr></table></figure></li><li><p>排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。</p></li><li><p>大神的博客常去溜达学习<br><a href="http://www.ruanyifeng.com/blog/developer/" target="_blank" rel="noopener">阮一峰</a><br><a href="http://rango.swoole.com/" target="_blank" rel="noopener">韩天峰</a><br><a href="https://www.liaoxuefeng.com/" target="_blank" rel="noopener">廖雪峰</a><br><a href="http://demo.yiiphp.net/news/61.html" target="_blank" rel="noopener">php大神博客汇总，汇总下知乎和其他来源</a></p></li></ul>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 首页 </tag>
+            
+        </tags>
       
     </entry>
     
