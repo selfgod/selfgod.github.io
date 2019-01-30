@@ -9,9 +9,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[workerman]]></title>
-    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
-    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
+    <title><![CDATA[ThinkPHP]]></title>
+    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
+    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册2、thinkphp5-restfulapi]]></content>
       <categories>
         <category>php</category>
       </categories>
@@ -34,6 +34,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Composer]]></title>
+    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
+    <content type="text"><![CDATA[Composer中文文档]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[HEXO]]></title>
     <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
     <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
@@ -45,9 +56,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[ThinkPHP]]></title>
-    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
-    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册2、thinkphp5-restfulapi]]></content>
+    <title><![CDATA[workerman]]></title>
+    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
+    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
       <categories>
         <category>php</category>
       </categories>
@@ -55,17 +66,6 @@
         <tag>php</tag>
         <tag>api</tag>
         <tag>框架</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[工具]]></title>
-    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
-    <content type="text"><![CDATA[TOOLS1、Composer中文文档]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
