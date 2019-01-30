@@ -1,262 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>欢迎来到我的博客</title>
-      <link href="/2019/01/30/index/"/>
-      <url>/2019/01/30/index/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2019/01/30/index/index_dog1.jpeg" alt=""></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 首页 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>HEXO</title>
-      <link href="/2019/01/30/HEXO/"/>
-      <url>/2019/01/30/HEXO/</url>
-      
-        <content type="html"><![CDATA[<h3 id="HEXO"><a href="#HEXO" class="headerlink" title="HEXO"></a>HEXO</h3><p>1、<a href="https://github.com/Jamling/hexo-generator-index2/blob/master/README_zh.md" target="_blank" rel="noopener">带过滤功能的Hexo首页生成器插件</a></p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[欢迎欢迎~ 汪！]]></title>
+    <url>%2F2019%2F01%2F30%2Findex%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <tags>
+        <tag>首页</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[HEXO]]></title>
+    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
+    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
       <categories>
-          
-          <category> 博客 </category>
-          
+        <category>博客</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>easyswoole</title>
-      <link href="/2019/01/30/easyswoole/"/>
-      <url>/2019/01/30/easyswoole/</url>
-      
-        <content type="html"><![CDATA[<h3 id="easyswoole"><a href="#easyswoole" class="headerlink" title="easyswoole"></a>easyswoole</h3><p>1、<a href="https://www.easyswoole.com/" target="_blank" rel="noopener">easyswoole官网</a><br>2、<a href="https://github.com/selfgod/easyswoole" target="_blank" rel="noopener">easyswoole GITHUB</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[easyswoole]]></title>
+    <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
+    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB]]></content>
       <categories>
-          
-          <category> php </category>
-          
+        <category>php</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> 框架 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>workerman</title>
-      <link href="/2019/01/30/workerman/"/>
-      <url>/2019/01/30/workerman/</url>
-      
-        <content type="html"><![CDATA[<h3 id="workerman"><a href="#workerman" class="headerlink" title="workerman"></a>workerman</h3><p>1、<a href="https://www.workerman.net/" target="_blank" rel="noopener">workerman官网</a></p><h3 id="workerman-thrift-rpc"><a href="#workerman-thrift-rpc" class="headerlink" title="workerman-thrift-rpc"></a>workerman-thrift-rpc</h3><p>1、<a href="https://www.workerman.net/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc官网</a><br>2、<a href="https://github.com/selfgod/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc GITHUB</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[ThinkPHP]]></title>
+    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
+    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册2、thinkphp5-restfulapi]]></content>
       <categories>
-          
-          <category> php </category>
-          
+        <category>php</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> api </tag>
-            
-            <tag> 框架 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ThinkPHP</title>
-      <link href="/2019/01/30/thinkphp/"/>
-      <url>/2019/01/30/thinkphp/</url>
-      
-        <content type="html"><![CDATA[<h3 id="thinkphp5-1"><a href="#thinkphp5-1" class="headerlink" title="thinkphp5.1"></a>thinkphp5.1</h3><p>1、<a href="https://www.kancloud.cn/manual/thinkphp5_1/353946" target="_blank" rel="noopener">TP5.1完全开发手册</a><br>2、<a href="https://github.com/selfgod/thinkphp5-restfulapi" target="_blank" rel="noopener">thinkphp5-restfulapi</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[workerman]]></title>
+    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
+    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
       <categories>
-          
-          <category> php </category>
-          
+        <category>php</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> api </tag>
-            
-            <tag> 框架 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>api设计有关</title>
-      <link href="/2019/01/30/api-design/"/>
-      <url>/2019/01/30/api-design/</url>
-      
-        <content type="html"><![CDATA[<h3 id="RESTful-API"><a href="#RESTful-API" class="headerlink" title="RESTful API"></a>RESTful API</h3><p>1、<a href="http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html" target="_blank" rel="noopener">ESTful API 最佳实践</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[api设计有关]]></title>
+    <url>%2F2019%2F01%2F30%2Fapi-design%2F</url>
+    <content type="text"><![CDATA[RESTful API1、ESTful API 最佳实践]]></content>
       <categories>
-          
-          <category> api设计 </category>
-          
+        <category>api设计</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> api </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)</title>
-      <link href="/2019/01/10/lnmp-make/"/>
-      <url>/2019/01/10/lnmp-make/</url>
-      
-        <content type="html"><![CDATA[<h3 id="一、安装php7-3（鉴于7-3的兼容性，目前以下步骤对7-2亲测无问题）"><a href="#一、安装php7-3（鉴于7-3的兼容性，目前以下步骤对7-2亲测无问题）" class="headerlink" title="一、安装php7.3（鉴于7.3的兼容性，目前以下步骤对7.2亲测无问题）"></a>一、安装php7.3（鉴于7.3的兼容性，目前以下步骤对7.2亲测无问题）</h3><p>1、运行命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew search php7.3</span><br></pre></td></tr></table></figure></p><p>查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew update</span><br></pre></td></tr></table></figure></p><p>,然后执行安装<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install php@7.3</span><br></pre></td></tr></table></figure></p><p>安装后再次执行brew search php7.3，可以查看到当前已经安装成功<img src="/2019/01/10/lnmp-make/WX20190110-135803.png" alt=""><br>cd 到该版本php的执行目录下，<img src="/2019/01/10/lnmp-make/1547100608023.jpg" alt="">，发现已经安装好了pear、pecl和phpize<br><img src="/2019/01/10/lnmp-make/1547100734305.jpg" alt="">，然后可以查看下php中已经启用的扩展信息，当前目录下<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./php -m</span><br></pre></td></tr></table></figure></p><p>2、为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是<a href="http://www.conf文件）" target="_blank" rel="noopener">www.conf文件）</a><br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/<span class="built_in">local</span>/etc/php/7.3/php-fpm.d/www.conf</span><br></pre></td></tr></table></figure></p><p>修改，<img src="/2019/01/10/lnmp-make/WX20190110-144533.png" alt="">,这里为了举例，姑且改为9073。<br>3、开启守护进程，打开<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/<span class="built_in">local</span>/etc/php/7.3/php-fpm.conf</span><br></pre></td></tr></table></figure></p><p>修改 ，<img src="/2019/01/10/lnmp-make/1547101508207.jpg" alt="">，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了<br>4、设置软连接<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ln -s  /usr/<span class="built_in">local</span>/Cellar/php/7.3.0_1/sbin/php-fpm   /usr/<span class="built_in">local</span>/bin/php-fpm73</span><br></pre></td></tr></table></figure></p><p>这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看</p><h3 id="二、安装nginx"><a href="#二、安装nginx" class="headerlink" title="二、安装nginx"></a>二、安装nginx</h3><p>1、安装<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install nginx</span><br></pre></td></tr></table></figure></p><p>查看版本信息，cd到执行目录下，这里我的是<img src="/2019/01/10/lnmp-make/1547188800487.jpg" alt="">执行<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./nginx -v</span><br></pre></td></tr></table></figure></p><p>查看是否配置上nginx，正确的话会显示版本信息。</p><p>2、然后进行配置</p><p>首先为nginx配置到启动端口，因为默认端口是8080。这里为了用nginx驱动php，先观察下nginx的配置文件如下图<img src="/2019/01/10/lnmp-make/1548089901464.jpg" alt=""><br>发现最后一行是读取指定目录下的配置<br><img src="/2019/01/10/lnmp-make/WX20190122-013544@2x.png" alt=""><br>，然后找到该目录<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> /usr/<span class="built_in">local</span>/etc/nginx/servers</span><br></pre></td></tr></table></figure></p><p>新建一个配置文件，我后面将在php7.2基础上搭建tp5，所以建立配置文件tp.test_conf,然后编辑此文件这里贴上我的配置<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line">server &#123;</span><br><span class="line">    listen       80;</span><br><span class="line"></span><br><span class="line">    charset utf-8;</span><br><span class="line">    <span class="comment">#access_log  /var/log/nginx/log/weapp-access.log  main;</span></span><br><span class="line">    <span class="comment">#error_log   /var/log/nginx/log/weapp-error.log;</span></span><br><span class="line"></span><br><span class="line">    root /Volumes/workPlace/phpProject/tp;  <span class="comment">#网站的目录</span></span><br><span class="line">    index index.php index.html index.htm;</span><br><span class="line"></span><br><span class="line">    <span class="comment">#location / &#123;</span></span><br><span class="line">    <span class="comment">#    try_files $uri $uri/ /index.php?/$request_uri;</span></span><br><span class="line">    <span class="comment"># &#125;</span></span><br><span class="line"></span><br><span class="line">    <span class="comment">#error_page  404              /404.html;</span></span><br><span class="line"></span><br><span class="line">    <span class="comment"># redirect server error pages to the static page /50x.html</span></span><br><span class="line">    <span class="comment">#</span></span><br><span class="line">    error_page   500 502 503 504  /50x.html;</span><br><span class="line">    location = /50x.html &#123;</span><br><span class="line">        root   /usr/share/nginx/html;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment"># pass the PHP scripts to FastCGI server listening on 127.0.0.1:9000</span></span><br><span class="line">        <span class="comment">#</span></span><br><span class="line">        location ~ \.php$ &#123;</span><br><span class="line">            fastcgi_pass   127.0.0.1:9000;  <span class="comment">#对应采用版本的php ip:端口</span></span><br><span class="line">            fastcgi_index  index.php;</span><br><span class="line">            fastcgi_param  SCRIPT_FILENAME  <span class="variable">$document_root</span><span class="variable">$fastcgi_script_name</span>;</span><br><span class="line">            include        fastcgi_params;</span><br><span class="line">        &#125;</span><br><span class="line">    </span><br><span class="line">        <span class="comment"># deny access to .htaccess files, if Apache's document root</span></span><br><span class="line">        <span class="comment"># concurs with nginx's one</span></span><br><span class="line">        <span class="comment">#</span></span><br><span class="line">        <span class="comment">#location ~ /\.ht &#123;</span></span><br><span class="line">        <span class="comment">#    deny  all;</span></span><br><span class="line">        <span class="comment">#&#125;</span></span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure></p><p>这里需要说明的是，我的php7.2的端口配置为了9000，所以在<br>fastcgi_pass 这里配置为:9000<br>root 配置的是tp5安装的入口文件根目录，即网站根目录，这里根据自己情况配置<br>保存配置后重启nginx即可（可以关闭nginx再开启，参考下面）</p><p>3、关闭nginx</p><p>我们通过寻找进程号，并杀死进程的方式来关闭nginx<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ps -ef|grep nginx</span><br></pre></td></tr></table></figure></p><p>找到对应的进程号<img src="/2019/01/10/lnmp-make/WX20190122-011753@2x.png" alt="">，这里显然是959，然后执行<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">kill</span> -9 959</span><br></pre></td></tr></table></figure></p><p>就能够关闭nginx进程。</p><p>4、对应执行目录下执行<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./nginx</span><br></pre></td></tr></table></figure></p><p>或者配置软连接执行，不再赘述</p><h3 id="三、安装mysql"><a href="#三、安装mysql" class="headerlink" title="三、安装mysql"></a>三、安装mysql</h3><p>这里有一篇教程说的很好，我就直接引入链接啦，<a href="https://www.jianshu.com/p/4cb5ef29a099" target="_blank" rel="noopener">使用Homebrew安装Mysql[mac]</a></p><h3 id="四、安装php扩展swoole，xdebug，igbinary，redis"><a href="#四、安装php扩展swoole，xdebug，igbinary，redis" class="headerlink" title="四、安装php扩展swoole，xdebug，igbinary，redis"></a>四、安装php扩展swoole，xdebug，igbinary，redis</h3><p>cd 到该版本php的执行目录下，<img src="/2019/01/10/lnmp-make/1547100608023.jpg" alt="">，<br>注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。<br>1、swoole安装<br>执行</p><pre><code class="bash">sudo ./pecl install swoole</code></pre><p>如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。<br>然后一路回车即可。可以参考知乎文章<br><a href="https://zhuanlan.zhihu.com/p/35974610" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/35974610</a></p><p>2、xdebug安装<br>执行</p><pre><code class="bash">sudo ./pecl install swoole</code></pre><p>3、igbinary安装<br>执行</p><pre><code class="bash">sudo ./pecl install igbinary</code></pre><p>4、redis安装<br>执行</p><pre><code class="bash">sudo ./pecl install redis</code></pre><p>安装扩展后会自动写入配置，无需再修改配置文件</p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[git]]></title>
+    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
+    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题]]></content>
       <categories>
-          
-          <category> 服务器及环境搭建 </category>
-          
+        <category>git</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> nginx </tag>
-            
-            <tag> php扩展 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>git</title>
-      <link href="/2019/01/10/git/"/>
-      <url>/2019/01/10/git/</url>
-      
-        <content type="html"><![CDATA[<h3 id="git方面的知识总结"><a href="#git方面的知识总结" class="headerlink" title="git方面的知识总结"></a>git方面的知识总结</h3><p>1、<a href="https://www.cnblogs.com/sdgf/p/6237847.html" target="_blank" rel="noopener">git 换行符LF与CRLF转换问题</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)]]></title>
+    <url>%2F2019%2F01%2F10%2Flnmp-make%2F</url>
+    <content type="text"><![CDATA[一、安装php7.3（鉴于7.3的兼容性，目前以下步骤对7.2亲测无问题）1、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，1brew update ,然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php -m 2、为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是www.conf文件）1vim /usr/local/etc/php/7.3/php-fpm.d/www.conf 修改，,这里为了举例，姑且改为9073。3、开启守护进程，打开1vim /usr/local/etc/php/7.3/php-fpm.conf 修改 ，，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了4、设置软连接1ln -s /usr/local/Cellar/php/7.3.0_1/sbin/php-fpm /usr/local/bin/php-fpm73 这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看 二、安装nginx1、安装1brew install nginx 查看版本信息，cd到执行目录下，这里我的是执行1./nginx -v 查看是否配置上nginx，正确的话会显示版本信息。 2、然后进行配置 首先为nginx配置到启动端口，因为默认端口是8080。这里为了用nginx驱动php，先观察下nginx的配置文件如下图发现最后一行是读取指定目录下的配置，然后找到该目录1cd /usr/local/etc/nginx/servers 新建一个配置文件，我后面将在php7.2基础上搭建tp5，所以建立配置文件tp.test_conf,然后编辑此文件这里贴上我的配置1234567891011121314151617181920212223242526272829303132333435363738server &#123; listen 80; charset utf-8; #access_log /var/log/nginx/log/weapp-access.log main; #error_log /var/log/nginx/log/weapp-error.log; root /Volumes/workPlace/phpProject/tp; #网站的目录 index index.php index.html index.htm; #location / &#123; # try_files $uri $uri/ /index.php?/$request_uri; # &#125; #error_page 404 /404.html; # redirect server error pages to the static page /50x.html # error_page 500 502 503 504 /50x.html; location = /50x.html &#123; root /usr/share/nginx/html; &#125; # pass the PHP scripts to FastCGI server listening on 127.0.0.1:9000 # location ~ \.php$ &#123; fastcgi_pass 127.0.0.1:9000; #对应采用版本的php ip:端口 fastcgi_index index.php; fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name; include fastcgi_params; &#125; # deny access to .htaccess files, if Apache's document root # concurs with nginx's one # #location ~ /\.ht &#123; # deny all; #&#125; &#125; 这里需要说明的是，我的php7.2的端口配置为了9000，所以在fastcgi_pass 这里配置为:9000root 配置的是tp5安装的入口文件根目录，即网站根目录，这里根据自己情况配置保存配置后重启nginx即可（可以关闭nginx再开启，参考下面） 3、关闭nginx 我们通过寻找进程号，并杀死进程的方式来关闭nginx1ps -ef|grep nginx 找到对应的进程号，这里显然是959，然后执行1kill -9 959 就能够关闭nginx进程。 4、对应执行目录下执行1./nginx 或者配置软连接执行，不再赘述 三、安装mysql这里有一篇教程说的很好，我就直接引入链接啦，使用Homebrew安装Mysql[mac] 四、安装php扩展swoole，xdebug，igbinary，rediscd 到该版本php的执行目录下，，注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。1、swoole安装执行 sudo ./pecl install swoole 如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。然后一路回车即可。可以参考知乎文章https://zhuanlan.zhihu.com/p/35974610 2、xdebug安装执行 sudo ./pecl install swoole 3、igbinary安装执行 sudo ./pecl install igbinary 4、redis安装执行 sudo ./pecl install redis 安装扩展后会自动写入配置，无需再修改配置文件]]></content>
       <categories>
-          
-          <category> git </category>
-          
+        <category>服务器及环境搭建</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> git </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我的第一篇博客</title>
-      <link href="/2019/01/08/first-blog/"/>
-      <url>/2019/01/08/first-blog/</url>
-      
-        <content type="html"><![CDATA[<h1 id="随便说点"><a href="#随便说点" class="headerlink" title="随便说点"></a>随便说点</h1><ul><li>下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊，</li><li>这里是我的<a href="https://github.com/selfgod" title="GitHub地址" target="_blank" rel="noopener">github地址</a></li><li><p>我支持的球队<img src="/2019/01/08/first-blog/Juventus-5.jpg" alt="">- 还有最好的语言PHP</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;?php <span class="built_in">echo</span> <span class="string">'HELLO WORLD'</span>;  ?&gt;</span><br></pre></td></tr></table></figure></li><li><p>排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。</p></li><li><p>大神的博客常去溜达学习<br><a href="http://www.ruanyifeng.com/blog/developer/" target="_blank" rel="noopener">阮一峰</a><br><a href="http://rango.swoole.com/" target="_blank" rel="noopener">韩天峰</a><br><a href="https://www.liaoxuefeng.com/" target="_blank" rel="noopener">廖雪峰</a><br><a href="http://demo.yiiphp.net/news/61.html" target="_blank" rel="noopener">php大神博客汇总，汇总下知乎和其他来源</a></p></li></ul>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 首页 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/2019/01/08/test/"/>
-      <url>/2019/01/08/test/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2019/01/03/hello-world/"/>
-      <url>/2019/01/03/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>php</tag>
+        <tag>nginx</tag>
+        <tag>php扩展</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[我的第一篇博客]]></title>
+    <url>%2F2019%2F01%2F08%2Ffirst-blog%2F</url>
+    <content type="text"><![CDATA[随便说点 下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊， 这里是我的github地址 我支持的球队- 还有最好的语言PHP 1&lt;?php echo 'HELLO WORLD'; ?&gt; 排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。 大神的博客常去溜达学习阮一峰韩天峰廖雪峰php大神博客汇总，汇总下知乎和其他来源]]></content>
+      <tags>
+        <tag>闲聊</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F01%2F08%2Ftest%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F01%2F03%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
 </search>
