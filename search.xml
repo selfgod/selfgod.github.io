@@ -1,6 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[FAQ]]></title>
+    <url>%2F2019%2F03%2F04%2FFAQ%2F</url>
+    <content type="text"><![CDATA[数据库相关 索引 性能优化 字段选择 数据库引擎 分库分表分区分片 视图，联查 nginx相关redis相关队列相关接口授权微信接口TCP/IP UDP 三次握手，四次挥手 web/socket 进程/线程同步/异步 阻塞/非阻塞高并发，高性能，高可用方案项目叙述]]></content>
+      <categories>
+        <category>FAQ</category>
+      </categories>
+      <tags>
+        <tag>FAQ</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[php]]></title>
+    <url>%2F2019%2F03%2F02%2Fphp%2F</url>
+    <content type="text"><![CDATA[php面试相关1、php面试题整理2、高并发与大数据]]></content>
+      <categories>
+        <category>php</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[mysql]]></title>
+    <url>%2F2019%2F02%2F27%2Fmysql%2F</url>
+    <content type="text"><![CDATA[#mysql面试相关1、MyISAM与InnoDB两者之间区别与选择，详细总结，性能对比 #mysql面试相关1、MySQL经典面试题2、2019年php关于数据库部分的面试题3、PHP mysql 优化4、PHP经典面试题——数据库优化5、避免在循环中访问数据库,一次对于PHP代码的优化经历]]></content>
+      <categories>
+        <category>mysql</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>mysql</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[ZooKeeper-kafka]]></title>
+    <url>%2F2019%2F02%2F27%2FZooKeeper-kafka%2F</url>
+    <content type="text"><![CDATA[#搭建zookeeper+kafka集群1、linux下搭建zookeeper+kafka集群]]></content>
+      <categories>
+        <category>ZooKeeper-kafka</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>ZooKeeper-kafka</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[docker]]></title>
+    <url>%2F2019%2F02%2F27%2Fdocker%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>docker</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>docker</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[memcache]]></title>
+    <url>%2F2019%2F02%2F26%2Fmemcache%2F</url>
+    <content type="text"><![CDATA[Memcache1、PHP面试常考内容之Memcache]]></content>
+      <categories>
+        <category>memcache</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>memcache</tag>
+        <tag>缓存技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Linux]]></title>
+    <url>%2F2019%2F01%2F30%2FCli%2F</url>
+    <content type="text"><![CDATA[Linux中操作1、Linux vi中查找字符内容的方法2、php快速查看扩展的版本信息 php –ri 扩展名 Linux下配置1、环境变量有关]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Redis]]></title>
+    <url>%2F2019%2F01%2F30%2Fredis%2F</url>
+    <content type="text"><![CDATA[Redis1、Redis安装配置环境变量2、Redis中常用五种数据结构3、phpRedis函数使用总结4、redis数据库选择-select5、Redis各个数据类型在不同业务场景下的应用6、简单实现redis实现高并发下的抢购 Redis深入1、Redis主从复制2、分析RedisRDB和AOF两种持久化机制的工作原理及优劣势3、部署Redis4.x单机版及配置RDB和AOF持久化4、部redis哨兵架构的基础知识及部署和管理]]></content>
+      <categories>
+        <category>redis</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>缓存技术</tag>
+        <tag>redis</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[欢迎欢迎~ 汪！]]></title>
     <url>%2F2019%2F01%2F30%2Findex%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -9,9 +104,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[ThinkPHP]]></title>
-    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
-    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
+    <title><![CDATA[workerman]]></title>
+    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
+    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
       <categories>
         <category>php</category>
       </categories>
@@ -24,7 +119,7 @@
   <entry>
     <title><![CDATA[easyswoole]]></title>
     <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
-    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB]]></content>
+    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
       <categories>
         <category>php</category>
       </categories>
@@ -45,20 +140,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[nginx模块开发篇]]></title>
-    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
-    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇]]></content>
-      <categories>
-        <category>服务器及环境搭建</category>
-      </categories>
-      <tags>
-        <tag>nginx</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[workerman]]></title>
-    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
-    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
+    <title><![CDATA[ThinkPHP]]></title>
+    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
+    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
       <categories>
         <category>php</category>
       </categories>
@@ -66,6 +150,17 @@
         <tag>php</tag>
         <tag>api</tag>
         <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[nginx模块开发篇]]></title>
+    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
+    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
+      <categories>
+        <category>服务器及环境搭建</category>
+      </categories>
+      <tags>
+        <tag>nginx</tag>
       </tags>
   </entry>
   <entry>
@@ -94,7 +189,7 @@
   <entry>
     <title><![CDATA[Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)]]></title>
     <url>%2F2019%2F01%2F10%2Flnmp-make%2F</url>
-    <content type="text"><![CDATA[一、安装php7.3（鉴于7.3的兼容性，目前以下步骤对7.2亲测无问题）1、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，1brew update ,然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php -m 2、为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是www.conf文件）1vim /usr/local/etc/php/7.3/php-fpm.d/www.conf 修改，,这里为了举例，姑且改为9073。3、开启守护进程，打开1vim /usr/local/etc/php/7.3/php-fpm.conf 修改 ，，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了4、设置软连接1ln -s /usr/local/Cellar/php/7.3.0_1/sbin/php-fpm /usr/local/bin/php-fpm73 这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看 二、安装nginx1、安装1brew install nginx 查看版本信息，cd到执行目录下，这里我的是执行1./nginx -v 查看是否配置上nginx，正确的话会显示版本信息。 2、然后进行配置 首先为nginx配置到启动端口，因为默认端口是8080。这里为了用nginx驱动php，先观察下nginx的配置文件如下图发现最后一行是读取指定目录下的配置，然后找到该目录1cd /usr/local/etc/nginx/servers 新建一个配置文件，我后面将在php7.2基础上搭建tp5，所以建立配置文件tp.test_conf,然后编辑此文件这里贴上我的配置1234567891011121314151617181920212223242526272829303132333435363738server &#123; listen 80; charset utf-8; #access_log /var/log/nginx/log/weapp-access.log main; #error_log /var/log/nginx/log/weapp-error.log; root /Volumes/workPlace/phpProject/tp; #网站的目录 index index.php index.html index.htm; #location / &#123; # try_files $uri $uri/ /index.php?/$request_uri; # &#125; #error_page 404 /404.html; # redirect server error pages to the static page /50x.html # error_page 500 502 503 504 /50x.html; location = /50x.html &#123; root /usr/share/nginx/html; &#125; # pass the PHP scripts to FastCGI server listening on 127.0.0.1:9000 # location ~ \.php$ &#123; fastcgi_pass 127.0.0.1:9000; #对应采用版本的php ip:端口 fastcgi_index index.php; fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name; include fastcgi_params; &#125; # deny access to .htaccess files, if Apache's document root # concurs with nginx's one # #location ~ /\.ht &#123; # deny all; #&#125; &#125; 这里需要说明的是，我的php7.2的端口配置为了9000，所以在fastcgi_pass 这里配置为:9000root 配置的是tp5安装的入口文件根目录，即网站根目录，这里根据自己情况配置保存配置后重启nginx即可（可以关闭nginx再开启，参考下面） 3、关闭nginx 我们通过寻找进程号，并杀死进程的方式来关闭nginx1ps -ef|grep nginx 找到对应的进程号，这里显然是959，然后执行1kill -9 959 就能够关闭nginx进程。 4、对应执行目录下执行1./nginx 或者配置软连接执行，不再赘述 三、安装mysql这里有一篇教程说的很好，我就直接引入链接啦，使用Homebrew安装Mysql[mac] 四、安装php扩展swoole，xdebug，igbinary，rediscd 到该版本php的执行目录下，，注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。1、swoole安装执行 sudo ./pecl install swoole 如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。然后一路回车即可。可以参考知乎文章https://zhuanlan.zhihu.com/p/35974610 2、xdebug安装执行 sudo ./pecl install swoole 3、igbinary安装执行 sudo ./pecl install igbinary 4、redis安装执行 sudo ./pecl install redis 安装扩展后会自动写入配置，无需再修改配置文件]]></content>
+    <content type="text"><![CDATA[一、安装php7.3（鉴于7.3的兼容性，目前以下步骤对7.2亲测无问题）1、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，1brew update ,然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php -m 2、为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是www.conf文件）1vim /usr/local/etc/php/7.3/php-fpm.d/www.conf 修改，,这里为了举例，姑且改为9073。3、开启守护进程，打开1vim /usr/local/etc/php/7.3/php-fpm.conf 修改 ，，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了4、设置软连接1ln -s /usr/local/Cellar/php/7.3.0_1/sbin/php-fpm /usr/local/bin/php-fpm73 这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看 二、安装nginx1、安装1brew install nginx 查看版本信息，cd到执行目录下，这里我的是执行1./nginx -v 查看是否配置上nginx，正确的话会显示版本信息。 2、然后进行配置 首先为nginx配置到启动端口，因为默认端口是8080。这里为了用nginx驱动php，先观察下nginx的配置文件如下图发现最后一行是读取指定目录下的配置，然后找到该目录1cd /usr/local/etc/nginx/servers 新建一个配置文件，我后面将在php7.2基础上搭建tp5，所以建立配置文件tp.test_conf,然后编辑此文件这里贴上我的配置1234567891011121314151617181920212223242526272829303132333435363738server &#123; listen 80; charset utf-8; #access_log /var/log/nginx/log/weapp-access.log main; #error_log /var/log/nginx/log/weapp-error.log; root /Volumes/workPlace/phpProject/tp; #网站的目录 index index.php index.html index.htm; #location / &#123; # try_files $uri $uri/ /index.php?/$request_uri; # &#125; #error_page 404 /404.html; # redirect server error pages to the static page /50x.html # error_page 500 502 503 504 /50x.html; location = /50x.html &#123; root /usr/share/nginx/html; &#125; # pass the PHP scripts to FastCGI server listening on 127.0.0.1:9000 # location ~ \.php$ &#123; fastcgi_pass 127.0.0.1:9000; #对应采用版本的php ip:端口 fastcgi_index index.php; fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name; include fastcgi_params; &#125; # deny access to .htaccess files, if Apache's document root # concurs with nginx's one # #location ~ /\.ht &#123; # deny all; #&#125; &#125; 这里需要说明的是，我的php7.2的端口配置为了9000，所以在fastcgi_pass 这里配置为:9000root 配置的是tp5安装的入口文件根目录，即网站根目录，这里根据自己情况配置保存配置后重启nginx即可（可以关闭nginx再开启，参考下面） 3、关闭nginx 我们通过寻找进程号，并杀死进程的方式来关闭nginx1ps -ef|grep nginx 找到对应的进程号，这里显然是959，然后执行1kill -9 959 就能够关闭nginx进程。 4、对应执行目录下执行1./nginx 或者配置软连接执行，不再赘述 三、安装mysql这里有一篇教程说的很好，我就直接引入链接啦，使用Homebrew安装Mysql[mac] 四、安装php扩展swoole，xdebug，igbinary，rediscd 到该版本php的执行目录下，，注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。1、swoole安装执行 sudo ./pecl install swoole 如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。然后一路回车即可。可以参考知乎文章https://zhuanlan.zhihu.com/p/35974610 2、xdebug安装执行 sudo ./pecl install xdebug 3、igbinary安装执行 sudo ./pecl install igbinary 4、redis安装执行 sudo ./pecl install redis 安装扩展后会自动写入配置，无需再修改配置文件]]></content>
       <categories>
         <category>服务器及环境搭建</category>
       </categories>
