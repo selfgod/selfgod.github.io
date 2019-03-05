@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[FAQ]]></title>
     <url>%2F2019%2F03%2F04%2FFAQ%2F</url>
-    <content type="text"><![CDATA[数据库相关 索引 性能优化 字段选择 数据库引擎 分库分表分区分片 视图，联查 nginx相关redis相关队列相关接口授权微信接口TCP/IP UDP 三次握手，四次挥手 web/socket 进程/线程同步/异步 阻塞/非阻塞高并发，高性能，高可用方案项目叙述]]></content>
+    <content type="text"><![CDATA[数据库相关 索引 性能优化 字段选择 数据库引擎 分库分表分区分片 视图，联查 nginx相关redis相关队列相关接口授权 微信接口 TCP/IP UDP 三次握手，四次挥手 web/socket 进程/线程同步/异步 阻塞/非阻塞高并发，高性能，高可用方案项目叙述]]></content>
       <categories>
         <category>FAQ</category>
       </categories>
@@ -72,6 +72,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Linux]]></title>
+    <url>%2F2019%2F01%2F30%2FCli%2F</url>
+    <content type="text"><![CDATA[Linux中操作1、Linux vi中查找字符内容的方法2、php快速查看扩展的版本信息 php –ri 扩展名 Linux下配置1、环境变量有关]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Redis]]></title>
     <url>%2F2019%2F01%2F30%2Fredis%2F</url>
     <content type="text"><![CDATA[Redis1、Redis安装配置环境变量2、Redis中常用五种数据结构3、phpRedis函数使用总结4、redis数据库选择-select5、Redis各个数据类型在不同业务场景下的应用6、简单实现redis实现高并发下的抢购 Redis深入1、Redis主从复制2、分析RedisRDB和AOF两种持久化机制的工作原理及优劣势3、部署Redis4.x单机版及配置RDB和AOF持久化4、部redis哨兵架构的基础知识及部署和管理]]></content>
@@ -85,17 +96,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Linux]]></title>
-    <url>%2F2019%2F01%2F30%2FCli%2F</url>
-    <content type="text"><![CDATA[Linux中操作1、Linux vi中查找字符内容的方法2、php快速查看扩展的版本信息 php –ri 扩展名 Linux下配置1、环境变量有关]]></content>
-      <categories>
-        <category>linux</category>
-      </categories>
-      <tags>
-        <tag>linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[欢迎欢迎~ 汪！]]></title>
     <url>%2F2019%2F01%2F30%2Findex%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -104,56 +104,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[HEXO]]></title>
-    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
-    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[workerman]]></title>
     <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
     <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
-      <categories>
-        <category>php</category>
-      </categories>
-      <tags>
-        <tag>php</tag>
-        <tag>api</tag>
-        <tag>框架</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Composer]]></title>
-    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
-    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[easyswoole]]></title>
-    <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
-    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
-      <categories>
-        <category>php</category>
-      </categories>
-      <tags>
-        <tag>php</tag>
-        <tag>框架</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[ThinkPHP]]></title>
-    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
-    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
       <categories>
         <category>php</category>
       </categories>
@@ -175,6 +128,53 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Composer]]></title>
+    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
+    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[HEXO]]></title>
+    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
+    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[ThinkPHP]]></title>
+    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
+    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
+      <categories>
+        <category>php</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[easyswoole]]></title>
+    <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
+    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
+      <categories>
+        <category>php</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[api设计有关]]></title>
     <url>%2F2019%2F01%2F30%2Fapi-design%2F</url>
     <content type="text"><![CDATA[RESTful API1、ESTful API 最佳实践]]></content>
@@ -184,17 +184,6 @@
       <tags>
         <tag>php</tag>
         <tag>api</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[git]]></title>
-    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
-    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
-      <categories>
-        <category>git</category>
-      </categories>
-      <tags>
-        <tag>git</tag>
       </tags>
   </entry>
   <entry>
@@ -208,6 +197,17 @@
         <tag>php</tag>
         <tag>nginx</tag>
         <tag>php扩展</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[git]]></title>
+    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
+    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
       </tags>
   </entry>
   <entry>
