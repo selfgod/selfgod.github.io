@@ -58,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://selfgod.github.io/2019/02/27/docker/</loc>
-    
-    <lastmod>2019-03-04T02:40:25.414Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://selfgod.github.io/2019/02/26/memcache/</loc>
     
     <lastmod>2019-03-04T02:40:25.414Z</lastmod>
@@ -73,6 +66,13 @@
   
   <url>
     <loc>https://selfgod.github.io/2019/02/27/ZooKeeper-kafka/</loc>
+    
+    <lastmod>2019-03-04T02:40:25.414Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://selfgod.github.io/2019/02/27/docker/</loc>
     
     <lastmod>2019-03-04T02:40:25.414Z</lastmod>
     
