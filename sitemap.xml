@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://selfgod.github.io/2019/04/12/Vue/</loc>
+    
+    <lastmod>2019-04-12T05:30:02.423Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://selfgod.github.io/2019/02/27/ZooKeeper-kafka/</loc>
+    
+    <lastmod>2019-03-25T06:13:29.579Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://selfgod.github.io/2019/03/15/toLearn/</loc>
     
     <lastmod>2019-03-18T05:23:28.395Z</lastmod>
@@ -59,13 +73,6 @@
   
   <url>
     <loc>https://selfgod.github.io/2019/02/26/memcache/</loc>
-    
-    <lastmod>2019-03-04T02:40:25.414Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://selfgod.github.io/2019/02/27/ZooKeeper-kafka/</loc>
     
     <lastmod>2019-03-04T02:40:25.414Z</lastmod>
     
