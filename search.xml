@@ -8,7 +8,7 @@
   <entry>
     <title><![CDATA[Vue]]></title>
     <url>%2F2019%2F04%2F12%2FVue%2F</url>
-    <content type="text"><![CDATA[Vue教程1、Vue官方教程2、从零开始搭建VUE项目3、在webpack上如何搭建vue项目4、vue-cli 3.0 安装 (一)5、vue-cli 3.0脚手架cli-service配置 (二)6、vue-cli 3.0 vue.config.js配置 (三)7、vue-cli 3.0 多页面打包 (四)8、比官方文档更易懂的Vue.js教程！包你学会！9、详解 ESLint 规则，规范你的代码]]></content>
+    <content type="text"><![CDATA[Vue教程1、Vue官方教程2、从零开始搭建VUE项目3、在webpack上如何搭建vue项目4、vue-cli 3.0 安装 (一)5、vue-cli 3.0脚手架cli-service配置 (二)6、vue-cli 3.0 vue.config.js配置 (三)7、vue-cli 3.0 多页面打包 (四)8、比官方文档更易懂的Vue.js教程！包你学会！9、详解 ESLint 规则，规范你的代码10、vue2.0+node.js项目实战–个人笔记+视频+源码]]></content>
       <categories>
         <category>php</category>
       </categories>
@@ -143,14 +143,14 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[nginx模块开发篇]]></title>
-    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
-    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
+    <title><![CDATA[Composer]]></title>
+    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
+    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令]]></content>
       <categories>
-        <category>服务器及环境搭建</category>
+        <category>工具</category>
       </categories>
       <tags>
-        <tag>nginx</tag>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
@@ -180,17 +180,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Composer]]></title>
-    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
-    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[easyswoole]]></title>
     <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
     <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
@@ -200,6 +189,17 @@
       <tags>
         <tag>php</tag>
         <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[nginx模块开发篇]]></title>
+    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
+    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
+      <categories>
+        <category>服务器及环境搭建</category>
+      </categories>
+      <tags>
+        <tag>nginx</tag>
       </tags>
   </entry>
   <entry>
@@ -239,17 +239,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F01%2F08%2Ftest%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[我的第一篇博客]]></title>
     <url>%2F2019%2F01%2F08%2Ffirst-blog%2F</url>
     <content type="text"><![CDATA[随便说点 下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊， 这里是我的github地址 我支持的球队- 还有最好的语言PHP 1&lt;?php echo 'HELLO WORLD'; ?&gt; 排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。 大神的博客常去溜达学习阮一峰韩天峰廖雪峰php大神博客汇总，汇总下知乎和其他来源]]></content>
       <tags>
         <tag>闲聊</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2019%2F01%2F08%2Ftest%2F</url>
-    <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
