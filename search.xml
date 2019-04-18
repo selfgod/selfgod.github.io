@@ -10,11 +10,23 @@
     <url>%2F2019%2F04%2F12%2FVue%2F</url>
     <content type="text"><![CDATA[Vue教程1、Vue官方教程2、从零开始搭建VUE项目3、在webpack上如何搭建vue项目4、vue-cli 3.0 安装 (一)5、vue-cli 3.0脚手架cli-service配置 (二)6、vue-cli 3.0 vue.config.js配置 (三)7、vue-cli 3.0 多页面打包 (四)8、比官方文档更易懂的Vue.js教程！包你学会！9、详解 ESLint 规则，规范你的代码10、vue2.0+node.js项目实战–个人笔记+视频+源码]]></content>
       <categories>
-        <category>php</category>
+        <category>js</category>
       </categories>
       <tags>
         <tag>Vue</tag>
         <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Vue]]></title>
+    <url>%2F2019%2F04%2F12%2Fjs-learn%2F</url>
+    <content type="text"><![CDATA[js知识1、ES6 基础]]></content>
+      <categories>
+        <category>js</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+        <tag>es6</tag>
       </tags>
   </entry>
   <entry>
@@ -132,6 +144,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[nginx模块开发篇]]></title>
+    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
+    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
+      <categories>
+        <category>服务器及环境搭建</category>
+      </categories>
+      <tags>
+        <tag>nginx</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[HEXO]]></title>
     <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
     <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
@@ -140,6 +163,18 @@
       </categories>
       <tags>
         <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[easyswoole]]></title>
+    <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
+    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
+      <categories>
+        <category>php</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>框架</tag>
       </tags>
   </entry>
   <entry>
@@ -180,29 +215,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[easyswoole]]></title>
-    <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
-    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
-      <categories>
-        <category>php</category>
-      </categories>
-      <tags>
-        <tag>php</tag>
-        <tag>框架</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[nginx模块开发篇]]></title>
-    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
-    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
-      <categories>
-        <category>服务器及环境搭建</category>
-      </categories>
-      <tags>
-        <tag>nginx</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[api设计有关]]></title>
     <url>%2F2019%2F01%2F30%2Fapi-design%2F</url>
     <content type="text"><![CDATA[RESTful API1、ESTful API 最佳实践]]></content>
@@ -212,17 +224,6 @@
       <tags>
         <tag>php</tag>
         <tag>api</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[git]]></title>
-    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
-    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
-      <categories>
-        <category>git</category>
-      </categories>
-      <tags>
-        <tag>git</tag>
       </tags>
   </entry>
   <entry>
@@ -239,9 +240,15 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2019%2F01%2F08%2Ftest%2F</url>
-    <content type="text"></content>
+    <title><![CDATA[git]]></title>
+    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
+    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[我的第一篇博客]]></title>
@@ -250,6 +257,11 @@
       <tags>
         <tag>闲聊</tag>
       </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F01%2F08%2Ftest%2F</url>
+    <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
