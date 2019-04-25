@@ -7,20 +7,8 @@
   </entry>
   <entry>
     <title><![CDATA[Vue]]></title>
-    <url>%2F2019%2F04%2F12%2FVue%2F</url>
-    <content type="text"><![CDATA[Vue教程1、Vue官方教程2、从零开始搭建VUE项目3、在webpack上如何搭建vue项目4、vue-cli 3.0 安装 (一)5、vue-cli 3.0脚手架cli-service配置 (二)6、vue-cli 3.0 vue.config.js配置 (三)7、vue-cli 3.0 多页面打包 (四)8、比官方文档更易懂的Vue.js教程！包你学会！9、详解 ESLint 规则，规范你的代码10、vue2.0+node.js项目实战–个人笔记+视频+源码]]></content>
-      <categories>
-        <category>js</category>
-      </categories>
-      <tags>
-        <tag>Vue</tag>
-        <tag>前端</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Vue]]></title>
     <url>%2F2019%2F04%2F12%2Fjs-learn%2F</url>
-    <content type="text"><![CDATA[js知识1、ES6 基础]]></content>
+    <content type="text"><![CDATA[js知识1、ES6 基础2、汇总前端最最常用的JS代码片段-你值得收藏]]></content>
       <categories>
         <category>js</category>
       </categories>
@@ -30,9 +18,21 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Vue]]></title>
+    <url>%2F2019%2F04%2F12%2FVue%2F</url>
+    <content type="text"><![CDATA[Vue教程1、Vue官方教程2、从零开始搭建VUE项目3、在webpack上如何搭建vue项目4、vue-cli 3.0 安装 (一)5、vue-cli 3.0脚手架cli-service配置 (二)6、vue-cli 3.0 vue.config.js配置 (三)7、vue-cli 3.0 多页面打包 (四)8、比官方文档更易懂的Vue.js教程！包你学会！9、详解 ESLint 规则，规范你的代码10、vue2.0+node.js项目实战–个人笔记+视频+源码11、Vue中的computed属性]]></content>
+      <categories>
+        <category>js</category>
+      </categories>
+      <tags>
+        <tag>Vue</tag>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[toLearn]]></title>
     <url>%2F2019%2F03%2F15%2FtoLearn%2F</url>
-    <content type="text"><![CDATA[前端1、VUE.js2、react.js3、Node.js4、angular.js php1、 框架1、tp2、ci3、easyswoole4、yii5、larveral6、symfony7、phalcon 数据库1、索引2、事物3、存储过程4、引擎5、sql优化6、数据库连接池 git1、gitlab runner 自动化部署 微信端1、微信公众号2、支付端（微信/支付宝等） 服务端相关1、nginx有关配置（正反代理，负载均衡）2、docker相关 工具1、composer2、npm]]></content>
+    <content type="text"><![CDATA[前端js1、es6基础1、VUE.js2、react.js3、Node.js4、angular.js php1、快速搭建环境并进行业务开发 框架1、tp2、ci3、easyswoole4、yii5、larveral6、symfony7、phalcon8、phalapi 数据库1、索引2、事物3、存储过程4、引擎5、sql优化6、数据库连接池7、mongodb git1、gitlab搭建2、gitlab runner 自动化部署3、git有关指令 微信端1、微信公众号2、微信小程序3、支付端（微信/支付宝等） 服务端相关1、nginx有关配置（正反代理，负载均衡）2、php的websocket2、workman3、swoole4、docker相关5、微服务 架构1、RPC2、kafka+zookeeper3、auth2.0 工具1、composer2、npm 购买阿里云服务器并管理搭建环境+在linux环境下开发典型业务场景java学习Go学习Python学习算法数据结构]]></content>
       <categories>
         <category>待学习</category>
       </categories>
@@ -155,6 +155,19 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[workerman]]></title>
+    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
+    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
+      <categories>
+        <category>php</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[HEXO]]></title>
     <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
     <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
@@ -180,7 +193,7 @@
   <entry>
     <title><![CDATA[Composer]]></title>
     <url>%2F2019%2F01%2F30%2Ftools%2F</url>
-    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令]]></content>
+    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
       <categories>
         <category>工具</category>
       </categories>
@@ -192,19 +205,6 @@
     <title><![CDATA[ThinkPHP]]></title>
     <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
     <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
-      <categories>
-        <category>php</category>
-      </categories>
-      <tags>
-        <tag>php</tag>
-        <tag>api</tag>
-        <tag>框架</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[workerman]]></title>
-    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
-    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
       <categories>
         <category>php</category>
       </categories>
