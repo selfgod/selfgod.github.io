@@ -7,18 +7,6 @@
   </entry>
   <entry>
     <title><![CDATA[Vue]]></title>
-    <url>%2F2019%2F04%2F12%2FVue%2F</url>
-    <content type="text"><![CDATA[Vue教程1、Vue官方教程2、从零开始搭建VUE项目3、在webpack上如何搭建vue项目4、vue-cli 3.0 安装 (一)5、vue-cli 3.0脚手架cli-service配置 (二)6、vue-cli 3.0 vue.config.js配置 (三)7、vue-cli 3.0 多页面打包 (四)8、比官方文档更易懂的Vue.js教程！包你学会！9、详解 ESLint 规则，规范你的代码10、vue2.0+node.js项目实战–个人笔记+视频+源码11、Vue中的computed属性]]></content>
-      <categories>
-        <category>js</category>
-      </categories>
-      <tags>
-        <tag>Vue</tag>
-        <tag>前端</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Vue]]></title>
     <url>%2F2019%2F04%2F12%2Fjs-learn%2F</url>
     <content type="text"><![CDATA[js知识1、ES6 基础2、汇总前端最最常用的JS代码片段-你值得收藏]]></content>
       <categories>
@@ -27,6 +15,18 @@
       <tags>
         <tag>前端</tag>
         <tag>es6</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Vue]]></title>
+    <url>%2F2019%2F04%2F12%2FVue%2F</url>
+    <content type="text"><![CDATA[Vue教程1、Vue官方教程2、从零开始搭建VUE项目3、在webpack上如何搭建vue项目4、vue-cli 3.0 安装 (一)5、vue-cli 3.0脚手架cli-service配置 (二)6、vue-cli 3.0 vue.config.js配置 (三)7、vue-cli 3.0 多页面打包 (四)8、比官方文档更易懂的Vue.js教程！包你学会！9、详解 ESLint 规则，规范你的代码10、vue2.0+node.js项目实战–个人笔记+视频+源码11、Vue中的computed属性]]></content>
+      <categories>
+        <category>js</category>
+      </categories>
+      <tags>
+        <tag>Vue</tag>
+        <tag>前端</tag>
       </tags>
   </entry>
   <entry>
@@ -107,13 +107,13 @@
       </categories>
       <tags>
         <tag>php</tag>
-        <tag>memcache</tag>
         <tag>nosql</tag>
         <tag>缓存技术</tag>
+        <tag>memcache</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[memcache]]></title>
+    <title><![CDATA[mongodb]]></title>
     <url>%2F2019%2F02%2F26%2Fmongodb%2F</url>
     <content type="text"><![CDATA[mongodb1、mac 下用 brew 安装mongodb2、MongoDB基本命令操作3、PHP操作MongoDB（增删改查）]]></content>
       <categories>
@@ -121,20 +121,9 @@
       </categories>
       <tags>
         <tag>php</tag>
+        <tag>mongodb</tag>
         <tag>nosql</tag>
         <tag>缓存技术</tag>
-        <tag>mongodb</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Linux]]></title>
-    <url>%2F2019%2F01%2F30%2FCli%2F</url>
-    <content type="text"><![CDATA[Linux中操作1、Linux vi中查找字符内容的方法2、php快速查看扩展的版本信息 php –ri 扩展名 Linux下配置1、环境变量有关]]></content>
-      <categories>
-        <category>linux</category>
-      </categories>
-      <tags>
-        <tag>linux</tag>
       </tags>
   </entry>
   <entry>
@@ -152,11 +141,44 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Linux]]></title>
+    <url>%2F2019%2F01%2F30%2FCli%2F</url>
+    <content type="text"><![CDATA[Linux中操作1、Linux vi中查找字符内容的方法2、php快速查看扩展的版本信息 php –ri 扩展名 Linux下配置1、环境变量有关]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[欢迎欢迎~ 汪！]]></title>
     <url>%2F2019%2F01%2F30%2Findex%2F</url>
     <content type="text"><![CDATA[]]></content>
       <tags>
         <tag>首页</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[nginx模块开发篇]]></title>
+    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
+    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
+      <categories>
+        <category>服务器及环境搭建</category>
+      </categories>
+      <tags>
+        <tag>nginx</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[HEXO]]></title>
+    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
+    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -172,25 +194,14 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[HEXO]]></title>
-    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
-    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
+    <title><![CDATA[Composer]]></title>
+    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
+    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
       <categories>
-        <category>博客</category>
+        <category>工具</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[nginx模块开发篇]]></title>
-    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
-    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
-      <categories>
-        <category>服务器及环境搭建</category>
-      </categories>
-      <tags>
-        <tag>nginx</tag>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
@@ -204,17 +215,6 @@
         <tag>php</tag>
         <tag>api</tag>
         <tag>框架</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Composer]]></title>
-    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
-    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
