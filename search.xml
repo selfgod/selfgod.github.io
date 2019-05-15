@@ -65,7 +65,7 @@
   <entry>
     <title><![CDATA[mysql]]></title>
     <url>%2F2019%2F02%2F27%2Fmysql%2F</url>
-    <content type="text"><![CDATA[#mysql面试相关1、MyISAM与InnoDB两者之间区别与选择，详细总结，性能对比 #mysql面试相关1、MySQL经典面试题2、2019年php关于数据库部分的面试题3、PHP mysql 优化4、PHP经典面试题——数据库优化5、避免在循环中访问数据库,一次对于PHP代码的优化经历]]></content>
+    <content type="text"><![CDATA[#mysql面试相关1、MyISAM与InnoDB两者之间区别与选择，详细总结，性能对比 #mysql面试相关1、MySQL经典面试题2、2019年php关于数据库部分的面试题3、PHP mysql 优化4、PHP经典面试题——数据库优化5、避免在循环中访问数据库,一次对于PHP代码的优化经历6、关于sql和MySQL的语句执行顺序(必看！！！)]]></content>
       <categories>
         <category>mysql</category>
       </categories>
@@ -107,9 +107,9 @@
       </categories>
       <tags>
         <tag>php</tag>
+        <tag>memcache</tag>
         <tag>nosql</tag>
         <tag>缓存技术</tag>
-        <tag>memcache</tag>
       </tags>
   </entry>
   <entry>
@@ -121,9 +121,20 @@
       </categories>
       <tags>
         <tag>php</tag>
-        <tag>mongodb</tag>
         <tag>nosql</tag>
         <tag>缓存技术</tag>
+        <tag>mongodb</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Linux]]></title>
+    <url>%2F2019%2F01%2F30%2FCli%2F</url>
+    <content type="text"><![CDATA[Linux中操作1、Linux vi中查找字符内容的方法2、php快速查看扩展的版本信息 php –ri 扩展名 Linux下配置1、环境变量有关]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
       </tags>
   </entry>
   <entry>
@@ -138,17 +149,6 @@
         <tag>nosql</tag>
         <tag>缓存技术</tag>
         <tag>redis</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Linux]]></title>
-    <url>%2F2019%2F01%2F30%2FCli%2F</url>
-    <content type="text"><![CDATA[Linux中操作1、Linux vi中查找字符内容的方法2、php快速查看扩展的版本信息 php –ri 扩展名 Linux下配置1、环境变量有关]]></content>
-      <categories>
-        <category>linux</category>
-      </categories>
-      <tags>
-        <tag>linux</tag>
       </tags>
   </entry>
   <entry>
