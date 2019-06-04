@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[swagger]]></title>
+    <url>%2F2019%2F06%2F04%2Fswagger%2F</url>
+    <content type="text"><![CDATA[api文档自动生成工具1、swagger的php中文教程2、swagger的github地址]]></content>
+      <categories>
+        <category>swagger</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[node]]></title>
     <url>%2F2019%2F04%2F12%2Fnode%2F</url>
     <content type="text"><![CDATA[Node教程0、如何正确学习Node1、nodejs学习之基础篇]]></content>
@@ -99,20 +111,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[memcache]]></title>
-    <url>%2F2019%2F02%2F26%2Fmemcache%2F</url>
-    <content type="text"><![CDATA[Memcache1、PHP面试常考内容之Memcache]]></content>
-      <categories>
-        <category>memcache</category>
-      </categories>
-      <tags>
-        <tag>php</tag>
-        <tag>nosql</tag>
-        <tag>缓存技术</tag>
-        <tag>memcache</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[mongodb]]></title>
     <url>%2F2019%2F02%2F26%2Fmongodb%2F</url>
     <content type="text"><![CDATA[mongodb1、mac 下用 brew 安装mongodb2、MongoDB基本命令操作3、PHP操作MongoDB（增删改查）4、MongoDB查询系统]]></content>
@@ -121,7 +119,21 @@
       </categories>
       <tags>
         <tag>php</tag>
+        <tag>nosql</tag>
+        <tag>缓存技术</tag>
         <tag>mongodb</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[memcache]]></title>
+    <url>%2F2019%2F02%2F26%2Fmemcache%2F</url>
+    <content type="text"><![CDATA[Memcache1、PHP面试常考内容之Memcache]]></content>
+      <categories>
+        <category>memcache</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>memcache</tag>
         <tag>nosql</tag>
         <tag>缓存技术</tag>
       </tags>
@@ -171,25 +183,16 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Composer]]></title>
-    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
-    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
+    <title><![CDATA[workerman]]></title>
+    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
+    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
       <categories>
-        <category>工具</category>
+        <category>php</category>
       </categories>
       <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[HEXO]]></title>
-    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
-    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
+        <tag>php</tag>
+        <tag>api</tag>
+        <tag>框架</tag>
       </tags>
   </entry>
   <entry>
@@ -205,16 +208,14 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[workerman]]></title>
-    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
-    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
+    <title><![CDATA[HEXO]]></title>
+    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
+    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
       <categories>
-        <category>php</category>
+        <category>博客</category>
       </categories>
       <tags>
-        <tag>php</tag>
-        <tag>api</tag>
-        <tag>框架</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -231,6 +232,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Composer]]></title>
+    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
+    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[api设计有关]]></title>
     <url>%2F2019%2F01%2F30%2Fapi-design%2F</url>
     <content type="text"><![CDATA[RESTful API1、ESTful API 最佳实践]]></content>
@@ -240,6 +252,17 @@
       <tags>
         <tag>php</tag>
         <tag>api</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[git]]></title>
+    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
+    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
       </tags>
   </entry>
   <entry>
@@ -253,17 +276,6 @@
         <tag>php</tag>
         <tag>nginx</tag>
         <tag>php扩展</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[git]]></title>
-    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
-    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
-      <categories>
-        <category>git</category>
-      </categories>
-      <tags>
-        <tag>git</tag>
       </tags>
   </entry>
   <entry>
