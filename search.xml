@@ -111,20 +111,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[mongodb]]></title>
-    <url>%2F2019%2F02%2F26%2Fmongodb%2F</url>
-    <content type="text"><![CDATA[mongodb1、mac 下用 brew 安装mongodb2、MongoDB基本命令操作3、PHP操作MongoDB（增删改查）4、MongoDB查询系统]]></content>
-      <categories>
-        <category>mongodb</category>
-      </categories>
-      <tags>
-        <tag>php</tag>
-        <tag>nosql</tag>
-        <tag>缓存技术</tag>
-        <tag>mongodb</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[memcache]]></title>
     <url>%2F2019%2F02%2F26%2Fmemcache%2F</url>
     <content type="text"><![CDATA[Memcache1、PHP面试常考内容之Memcache]]></content>
@@ -132,24 +118,37 @@
         <category>memcache</category>
       </categories>
       <tags>
+        <tag>缓存技术</tag>
         <tag>php</tag>
         <tag>memcache</tag>
         <tag>nosql</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[mongodb]]></title>
+    <url>%2F2019%2F02%2F26%2Fmongodb%2F</url>
+    <content type="text"><![CDATA[mongodb1、mac 下用 brew 安装mongodb2、MongoDB基本命令操作3、PHP操作MongoDB（增删改查）4、MongoDB查询系统]]></content>
+      <categories>
+        <category>mongodb</category>
+      </categories>
+      <tags>
         <tag>缓存技术</tag>
+        <tag>php</tag>
+        <tag>nosql</tag>
+        <tag>mongodb</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[Redis]]></title>
-    <url>%2F2019%2F01%2F30%2Fredis%2F</url>
-    <content type="text"><![CDATA[Redis1、Redis安装配置环境变量2、Redis中常用五种数据结构3、phpRedis函数使用总结4、redis数据库选择-select5、Redis各个数据类型在不同业务场景下的应用6、简单实现redis实现高并发下的抢购 Redis深入1、Redis主从复制2、分析RedisRDB和AOF两种持久化机制的工作原理及优劣势3、部署Redis4.x单机版及配置RDB和AOF持久化4、部redis哨兵架构的基础知识及部署和管理]]></content>
+    <url>%2F2019%2F01%2F30%2FServiceWorkers%2F</url>
+    <content type="text"><![CDATA[Redis1、Service Worker API2、Web离线应用解决方案——ServiceWorker]]></content>
       <categories>
-        <category>redis</category>
+        <category>ServiceWorker</category>
       </categories>
       <tags>
-        <tag>php</tag>
-        <tag>nosql</tag>
+        <tag>js</tag>
+        <tag>web</tag>
         <tag>缓存技术</tag>
-        <tag>redis</tag>
       </tags>
   </entry>
   <entry>
@@ -164,6 +163,20 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Redis]]></title>
+    <url>%2F2019%2F01%2F30%2Fredis%2F</url>
+    <content type="text"><![CDATA[Redis1、Redis安装配置环境变量2、Redis中常用五种数据结构3、phpRedis函数使用总结4、redis数据库选择-select5、Redis各个数据类型在不同业务场景下的应用6、简单实现redis实现高并发下的抢购 Redis深入1、Redis主从复制2、分析RedisRDB和AOF两种持久化机制的工作原理及优劣势3、部署Redis4.x单机版及配置RDB和AOF持久化4、部redis哨兵架构的基础知识及部署和管理]]></content>
+      <categories>
+        <category>redis</category>
+      </categories>
+      <tags>
+        <tag>缓存技术</tag>
+        <tag>php</tag>
+        <tag>nosql</tag>
+        <tag>redis</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[欢迎欢迎~ 汪！]]></title>
     <url>%2F2019%2F01%2F30%2Findex%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -172,14 +185,27 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[nginx模块开发篇]]></title>
-    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
-    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
+    <title><![CDATA[ThinkPHP]]></title>
+    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
+    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
       <categories>
-        <category>服务器及环境搭建</category>
+        <category>php</category>
       </categories>
       <tags>
-        <tag>nginx</tag>
+        <tag>php</tag>
+        <tag>api</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Composer]]></title>
+    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
+    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
@@ -219,27 +245,14 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[ThinkPHP]]></title>
-    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
-    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
+    <title><![CDATA[nginx模块开发篇]]></title>
+    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
+    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
       <categories>
-        <category>php</category>
+        <category>服务器及环境搭建</category>
       </categories>
       <tags>
-        <tag>php</tag>
-        <tag>api</tag>
-        <tag>框架</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Composer]]></title>
-    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
-    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
+        <tag>nginx</tag>
       </tags>
   </entry>
   <entry>
