@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://selfgod.github.io/2019/01/30/wx-app/</loc>
+    <lastmod>2019-07-02</lastmod>
+  </url>  <url>
     <loc>https://selfgod.github.io/2019/01/30/ServiceWorkers/</loc>
     <lastmod>2019-07-02</lastmod>
   </url>  <url>
@@ -19,10 +22,10 @@
     <loc>https://selfgod.github.io/2019/01/30/redis/</loc>
     <lastmod>2019-04-29</lastmod>
   </url>  <url>
-    <loc>https://selfgod.github.io/2019/01/30/tools/</loc>
+    <loc>https://selfgod.github.io/2019/04/12/Vue/</loc>
     <lastmod>2019-04-25</lastmod>
   </url>  <url>
-    <loc>https://selfgod.github.io/2019/04/12/Vue/</loc>
+    <loc>https://selfgod.github.io/2019/01/30/tools/</loc>
     <lastmod>2019-04-25</lastmod>
   </url>  <url>
     <loc>https://selfgod.github.io/2019/03/15/toLearn/</loc>
