@@ -75,7 +75,7 @@
       <link href="/2019/04/12/js-learn/"/>
       <url>/2019/04/12/js-learn/</url>
       
-        <content type="html"><![CDATA[<h3 id="js知识"><a href="#js知识" class="headerlink" title="js知识"></a>js知识</h3><p>1、<a href="https://www.cnblogs.com/libin-1/p/6716470.html" target="_blank" rel="noopener">ES6 基础</a><br>2、<a href="https://www.jianshu.com/p/1e0c4e8be239" target="_blank" rel="noopener">汇总前端最最常用的JS代码片段-你值得收藏</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="js知识"><a href="#js知识" class="headerlink" title="js知识"></a>js知识</h3><p>1、<a href="https://www.cnblogs.com/libin-1/p/6716470.html" target="_blank" rel="noopener">ES6 基础</a><br>2、<a href="https://www.jianshu.com/p/1e0c4e8be239" target="_blank" rel="noopener">汇总前端最最常用的JS代码片段-你值得收藏</a><br>3、<a href="https://www.cnblogs.com/sweeeper/p/8442613.html" target="_blank" rel="noopener">JS - Promise使用详解1（基本概念、使用优点）</a></p>]]></content>
       
       
       <categories>
@@ -254,37 +254,6 @@
     
     
     <entry>
-      <title>memcache</title>
-      <link href="/2019/02/26/memcache/"/>
-      <url>/2019/02/26/memcache/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Memcache"><a href="#Memcache" class="headerlink" title="Memcache"></a>Memcache</h3><p>1、<a href="https://segmentfault.com/a/1190000018181502?utm_source=tag-newest" target="_blank" rel="noopener">PHP面试常考内容之Memcache</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> memcache </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 缓存技术 </tag>
-            
-            <tag> php </tag>
-            
-            <tag> memcache </tag>
-            
-            <tag> nosql </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>mongodb</title>
       <link href="/2019/02/26/mongodb/"/>
       <url>/2019/02/26/mongodb/</url>
@@ -301,9 +270,9 @@
       
         <tags>
             
-            <tag> 缓存技术 </tag>
-            
             <tag> php </tag>
+            
+            <tag> 缓存技术 </tag>
             
             <tag> nosql </tag>
             
@@ -316,27 +285,60 @@
     
     
     <entry>
-      <title>wx-app</title>
-      <link href="/2019/01/30/wx-app/"/>
-      <url>/2019/01/30/wx-app/</url>
+      <title>memcache</title>
+      <link href="/2019/02/26/memcache/"/>
+      <url>/2019/02/26/memcache/</url>
       
-        <content type="html"><![CDATA[<h3 id="wx-app"><a href="#wx-app" class="headerlink" title="wx-app"></a>wx-app</h3><p>1、<a href="https://www.w3cschool.cn/weixinapp/9wou1q8j.html" target="_blank" rel="noopener">微信小程序开发教程手册文档</a><br>2、<a href="https://blog.csdn.net/qq137722697/article/details/52988719" target="_blank" rel="noopener">微信小程序入门教程+案例demo</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="Memcache"><a href="#Memcache" class="headerlink" title="Memcache"></a>Memcache</h3><p>1、<a href="https://segmentfault.com/a/1190000018181502?utm_source=tag-newest" target="_blank" rel="noopener">PHP面试常考内容之Memcache</a></p>]]></content>
       
       
       <categories>
           
-          <category> wx </category>
+          <category> memcache </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> js </tag>
+            <tag> php </tag>
             
-            <tag> web </tag>
+            <tag> 缓存技术 </tag>
             
-            <tag> wx </tag>
+            <tag> memcache </tag>
+            
+            <tag> nosql </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Redis</title>
+      <link href="/2019/01/30/redis/"/>
+      <url>/2019/01/30/redis/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Redis"><a href="#Redis" class="headerlink" title="Redis"></a>Redis</h3><p>1、<a href="https://blog.csdn.net/sunbo_csdn/article/details/82010722" target="_blank" rel="noopener">Redis安装配置环境变量</a><br>2、<a href="https://blog.csdn.net/sinat_36098122/article/details/80572997" target="_blank" rel="noopener">Redis中常用五种数据结构</a><br>3、<a href="https://www.cnblogs.com/quwaner/p/7753952.html" target="_blank" rel="noopener">phpRedis函数使用总结</a><br>4、<a href="https://blog.csdn.net/rentingting1/article/details/46531705" target="_blank" rel="noopener">redis数据库选择-select</a><br>5、<a href="https://blog.csdn.net/zhiguozhu/article/details/50517527" target="_blank" rel="noopener">Redis各个数据类型在不同业务场景下的应用</a><br>6、<a href="https://blog.csdn.net/qq_33862778/article/details/80651703" target="_blank" rel="noopener">简单实现redis实现高并发下的抢购</a></p><h3 id="Redis深入"><a href="#Redis深入" class="headerlink" title="Redis深入"></a>Redis深入</h3><p>1、<a href="https://www.cnblogs.com/panwenbin-logs/p/10257741.html" target="_blank" rel="noopener">Redis主从复制</a><br>2、<a href="https://www.cnblogs.com/panwenbin-logs/p/10236176.html" target="_blank" rel="noopener">分析RedisRDB和AOF两种持久化机制的工作原理及优劣势</a><br>3、<a href="https://www.cnblogs.com/panwenbin-logs/p/10242027.html" target="_blank" rel="noopener">部署Redis4.x单机版及配置RDB和AOF持久化</a><br>4、<a href="https://www.cnblogs.com/panwenbin-logs/p/10261463.html" target="_blank" rel="noopener">部redis哨兵架构的基础知识及部署和管理</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> redis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> php </tag>
+            
+            <tag> 缓存技术 </tag>
+            
+            <tag> nosql </tag>
+            
+            <tag> redis </tag>
             
         </tags>
       
@@ -374,29 +376,27 @@
     
     
     <entry>
-      <title>Redis</title>
-      <link href="/2019/01/30/redis/"/>
-      <url>/2019/01/30/redis/</url>
+      <title>wx-app</title>
+      <link href="/2019/01/30/wx-app/"/>
+      <url>/2019/01/30/wx-app/</url>
       
-        <content type="html"><![CDATA[<h3 id="Redis"><a href="#Redis" class="headerlink" title="Redis"></a>Redis</h3><p>1、<a href="https://blog.csdn.net/sunbo_csdn/article/details/82010722" target="_blank" rel="noopener">Redis安装配置环境变量</a><br>2、<a href="https://blog.csdn.net/sinat_36098122/article/details/80572997" target="_blank" rel="noopener">Redis中常用五种数据结构</a><br>3、<a href="https://www.cnblogs.com/quwaner/p/7753952.html" target="_blank" rel="noopener">phpRedis函数使用总结</a><br>4、<a href="https://blog.csdn.net/rentingting1/article/details/46531705" target="_blank" rel="noopener">redis数据库选择-select</a><br>5、<a href="https://blog.csdn.net/zhiguozhu/article/details/50517527" target="_blank" rel="noopener">Redis各个数据类型在不同业务场景下的应用</a><br>6、<a href="https://blog.csdn.net/qq_33862778/article/details/80651703" target="_blank" rel="noopener">简单实现redis实现高并发下的抢购</a></p><h3 id="Redis深入"><a href="#Redis深入" class="headerlink" title="Redis深入"></a>Redis深入</h3><p>1、<a href="https://www.cnblogs.com/panwenbin-logs/p/10257741.html" target="_blank" rel="noopener">Redis主从复制</a><br>2、<a href="https://www.cnblogs.com/panwenbin-logs/p/10236176.html" target="_blank" rel="noopener">分析RedisRDB和AOF两种持久化机制的工作原理及优劣势</a><br>3、<a href="https://www.cnblogs.com/panwenbin-logs/p/10242027.html" target="_blank" rel="noopener">部署Redis4.x单机版及配置RDB和AOF持久化</a><br>4、<a href="https://www.cnblogs.com/panwenbin-logs/p/10261463.html" target="_blank" rel="noopener">部redis哨兵架构的基础知识及部署和管理</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="wx-app"><a href="#wx-app" class="headerlink" title="wx-app"></a>wx-app</h3><p>1、<a href="https://www.w3cschool.cn/weixinapp/9wou1q8j.html" target="_blank" rel="noopener">微信小程序开发教程手册文档</a><br>2、<a href="https://blog.csdn.net/qq137722697/article/details/52988719" target="_blank" rel="noopener">微信小程序入门教程+案例demo</a></p>]]></content>
       
       
       <categories>
           
-          <category> redis </category>
+          <category> wx </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 缓存技术 </tag>
+            <tag> js </tag>
             
-            <tag> php </tag>
+            <tag> web </tag>
             
-            <tag> nosql </tag>
-            
-            <tag> redis </tag>
+            <tag> wx </tag>
             
         </tags>
       
@@ -441,60 +441,6 @@
         <tags>
             
             <tag> 首页 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>nginx模块开发篇</title>
-      <link href="/2019/01/30/nginx-develop/"/>
-      <url>/2019/01/30/nginx-develop/</url>
-      
-        <content type="html"><![CDATA[<h3 id="nginx模块开发篇"><a href="#nginx模块开发篇" class="headerlink" title="nginx模块开发篇"></a>nginx模块开发篇</h3><p>1、<a href="http://tengine.taobao.org/book/module_development.html" target="_blank" rel="noopener">上篇：nginx模块开发篇</a><br>2、<a href="https://www.cnblogs.com/frankielf0921/p/6855526.html" target="_blank" rel="noopener">nginx反向代理—实现反向代理、负载均衡的好处</a><br>3、<a href="https://www.cnblogs.com/fuwentao/p/9241420.html" target="_blank" rel="noopener">记录PHP的进程和线程理解</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 服务器及环境搭建 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> nginx </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ThinkPHP</title>
-      <link href="/2019/01/30/thinkphp/"/>
-      <url>/2019/01/30/thinkphp/</url>
-      
-        <content type="html"><![CDATA[<h3 id="thinkphp5-1"><a href="#thinkphp5-1" class="headerlink" title="thinkphp5.1"></a>thinkphp5.1</h3><p>1、<a href="https://www.kancloud.cn/manual/thinkphp5_1/353946" target="_blank" rel="noopener">TP5.1完全开发手册</a>,<br>有关7.3版本用composer安装tp5报错可以参考<a href="https://stackoverflow.com/questions/53690624/errors-installing-composer-on-macos-jit-compilation-failed" target="_blank" rel="noopener">错误在macOS上安装Composer（JIT编译失败）</a><br>2、<a href="https://github.com/selfgod/thinkphp5-restfulapi" target="_blank" rel="noopener">thinkphp5-restfulapi</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> php </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> 框架 </tag>
-            
-            <tag> api </tag>
             
         </tags>
       
@@ -555,6 +501,35 @@
     
     
     <entry>
+      <title>workerman</title>
+      <link href="/2019/01/30/workerman/"/>
+      <url>/2019/01/30/workerman/</url>
+      
+        <content type="html"><![CDATA[<h3 id="workerman"><a href="#workerman" class="headerlink" title="workerman"></a>workerman</h3><p>1、<a href="https://www.workerman.net/" target="_blank" rel="noopener">workerman官网</a></p><h3 id="workerman-thrift-rpc"><a href="#workerman-thrift-rpc" class="headerlink" title="workerman-thrift-rpc"></a>workerman-thrift-rpc</h3><p>1、<a href="https://www.workerman.net/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc官网</a><br>2、<a href="https://github.com/selfgod/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc GITHUB</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> php </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> php </tag>
+            
+            <tag> api </tag>
+            
+            <tag> 框架 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Composer</title>
       <link href="/2019/01/30/tools/"/>
       <url>/2019/01/30/tools/</url>
@@ -580,11 +555,11 @@
     
     
     <entry>
-      <title>workerman</title>
-      <link href="/2019/01/30/workerman/"/>
-      <url>/2019/01/30/workerman/</url>
+      <title>ThinkPHP</title>
+      <link href="/2019/01/30/thinkphp/"/>
+      <url>/2019/01/30/thinkphp/</url>
       
-        <content type="html"><![CDATA[<h3 id="workerman"><a href="#workerman" class="headerlink" title="workerman"></a>workerman</h3><p>1、<a href="https://www.workerman.net/" target="_blank" rel="noopener">workerman官网</a></p><h3 id="workerman-thrift-rpc"><a href="#workerman-thrift-rpc" class="headerlink" title="workerman-thrift-rpc"></a>workerman-thrift-rpc</h3><p>1、<a href="https://www.workerman.net/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc官网</a><br>2、<a href="https://github.com/selfgod/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc GITHUB</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="thinkphp5-1"><a href="#thinkphp5-1" class="headerlink" title="thinkphp5.1"></a>thinkphp5.1</h3><p>1、<a href="https://www.kancloud.cn/manual/thinkphp5_1/353946" target="_blank" rel="noopener">TP5.1完全开发手册</a>,<br>有关7.3版本用composer安装tp5报错可以参考<a href="https://stackoverflow.com/questions/53690624/errors-installing-composer-on-macos-jit-compilation-failed" target="_blank" rel="noopener">错误在macOS上安装Composer（JIT编译失败）</a><br>2、<a href="https://github.com/selfgod/thinkphp5-restfulapi" target="_blank" rel="noopener">thinkphp5-restfulapi</a></p>]]></content>
       
       
       <categories>
@@ -598,9 +573,34 @@
             
             <tag> php </tag>
             
+            <tag> api </tag>
+            
             <tag> 框架 </tag>
             
-            <tag> api </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>nginx模块开发篇</title>
+      <link href="/2019/01/30/nginx-develop/"/>
+      <url>/2019/01/30/nginx-develop/</url>
+      
+        <content type="html"><![CDATA[<h3 id="nginx模块开发篇"><a href="#nginx模块开发篇" class="headerlink" title="nginx模块开发篇"></a>nginx模块开发篇</h3><p>1、<a href="http://tengine.taobao.org/book/module_development.html" target="_blank" rel="noopener">上篇：nginx模块开发篇</a><br>2、<a href="https://www.cnblogs.com/frankielf0921/p/6855526.html" target="_blank" rel="noopener">nginx反向代理—实现反向代理、负载均衡的好处</a><br>3、<a href="https://www.cnblogs.com/fuwentao/p/9241420.html" target="_blank" rel="noopener">记录PHP的进程和线程理解</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 服务器及环境搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> nginx </tag>
             
         </tags>
       
@@ -636,31 +636,6 @@
     
     
     <entry>
-      <title>git</title>
-      <link href="/2019/01/10/git/"/>
-      <url>/2019/01/10/git/</url>
-      
-        <content type="html"><![CDATA[<h3 id="git方面的知识总结"><a href="#git方面的知识总结" class="headerlink" title="git方面的知识总结"></a>git方面的知识总结</h3><p>1、<a href="https://www.cnblogs.com/sdgf/p/6237847.html" target="_blank" rel="noopener">git 换行符LF与CRLF转换问题</a><br>2、<a href="https://www.jianshu.com/p/93b63852f0b3" target="_blank" rel="noopener">Hexo博客之速度优化</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> git </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> git </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)</title>
       <link href="/2019/01/10/lnmp-make/"/>
       <url>/2019/01/10/lnmp-make/</url>
@@ -682,6 +657,31 @@
             <tag> nginx </tag>
             
             <tag> php扩展 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git</title>
+      <link href="/2019/01/10/git/"/>
+      <url>/2019/01/10/git/</url>
+      
+        <content type="html"><![CDATA[<h3 id="git方面的知识总结"><a href="#git方面的知识总结" class="headerlink" title="git方面的知识总结"></a>git方面的知识总结</h3><p>1、<a href="https://www.cnblogs.com/sdgf/p/6237847.html" target="_blank" rel="noopener">git 换行符LF与CRLF转换问题</a><br>2、<a href="https://www.jianshu.com/p/93b63852f0b3" target="_blank" rel="noopener">Hexo博客之速度优化</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> git </tag>
             
         </tags>
       
