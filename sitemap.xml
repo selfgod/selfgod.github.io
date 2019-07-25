@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://selfgod.github.io/2019/02/27/mysql/</loc>
+    
+    <lastmod>2019-07-25T06:31:35.739Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://selfgod.github.io/2019/04/12/js-learn/</loc>
     
     <lastmod>2019-07-02T02:21:23.810Z</lastmod>
@@ -37,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://selfgod.github.io/2019/02/27/mysql/</loc>
-    
-    <lastmod>2019-05-15T12:23:15.529Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://selfgod.github.io/2019/02/26/memcache/</loc>
     
     <lastmod>2019-04-29T12:01:11.085Z</lastmod>
@@ -58,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://selfgod.github.io/2019/04/12/Vue/</loc>
+    <loc>https://selfgod.github.io/2019/01/30/tools/</loc>
     
     <lastmod>2019-04-25T13:18:16.074Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://selfgod.github.io/2019/01/30/tools/</loc>
+    <loc>https://selfgod.github.io/2019/04/12/Vue/</loc>
     
     <lastmod>2019-04-25T13:18:16.074Z</lastmod>
     

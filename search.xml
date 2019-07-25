@@ -1,738 +1,325 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>swagger</title>
-      <link href="/2019/06/04/swagger/"/>
-      <url>/2019/06/04/swagger/</url>
-      
-        <content type="html"><![CDATA[<h3 id="api文档自动生成工具"><a href="#api文档自动生成工具" class="headerlink" title="api文档自动生成工具"></a>api文档自动生成工具</h3><p>1、<a href="https://www.cnblogs.com/wzjwffg/p/9882728.html" target="_blank" rel="noopener">swagger的php中文教程</a><br>2、<a href="https://github.com/zircote/swagger-php" target="_blank" rel="noopener">swagger的github地址</a></p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[swagger]]></title>
+    <url>%2F2019%2F06%2F04%2Fswagger%2F</url>
+    <content type="text"><![CDATA[api文档自动生成工具1、swagger的php中文教程2、swagger的github地址]]></content>
       <categories>
-          
-          <category> swagger </category>
-          
+        <category>swagger</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> api </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>node</title>
-      <link href="/2019/04/12/node/"/>
-      <url>/2019/04/12/node/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Node教程"><a href="#Node教程" class="headerlink" title="Node教程"></a>Node教程</h3><p>0、<a href="https://blog.csdn.net/qq_21859119/article/details/82147384" target="_blank" rel="noopener">如何正确学习Node</a><br>1、<a href="https://blog.csdn.net/keep789/article/details/81451353" target="_blank" rel="noopener">nodejs学习之基础篇</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Vue</title>
-      <link href="/2019/04/12/Vue/"/>
-      <url>/2019/04/12/Vue/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Vue教程"><a href="#Vue教程" class="headerlink" title="Vue教程"></a>Vue教程</h3><p>1、<a href="https://cn.vuejs.org/v2/guide/installation.html" target="_blank" rel="noopener">Vue官方教程</a><br>2、<a href="https://www.cnblogs.com/cczlovexw/p/7691786.html" target="_blank" rel="noopener">从零开始搭建VUE项目</a><br>3、<a href="http://www.php.cn/js-tutorial-403721.html" target="_blank" rel="noopener">在webpack上如何搭建vue项目</a><br>4、<a href="https://www.jianshu.com/p/ce6f7264967a" target="_blank" rel="noopener">vue-cli 3.0 安装 (一)</a><br>5、<a href="https://www.jianshu.com/p/d50e543223b8" target="_blank" rel="noopener">vue-cli 3.0脚手架cli-service配置 (二)</a><br>6、<a href="https://www.jianshu.com/p/6b9f56145df2" target="_blank" rel="noopener">vue-cli 3.0 vue.config.js配置 (三)</a><br>7、<a href="https://www.jianshu.com/p/2db75dbeb0d9" target="_blank" rel="noopener">vue-cli 3.0 多页面打包 (四)</a><br>8、<a href="http://www.cnblogs.com/qcloud1001/archive/2018/09/25/9700625.html" target="_blank" rel="noopener">比官方文档更易懂的Vue.js教程！包你学会！</a><br>9、<a href="https://www.cnblogs.com/-walker/p/8143715.html" target="_blank" rel="noopener">详解 ESLint 规则，规范你的代码</a><br>10、<a href="https://blog.csdn.net/wangking407/article/details/83928364" target="_blank" rel="noopener">vue2.0+node.js项目实战–个人笔记+视频+源码</a><br>11、<a href="https://www.cnblogs.com/gunelark/p/8492468.html" target="_blank" rel="noopener">Vue中的computed属性</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[node]]></title>
+    <url>%2F2019%2F04%2F12%2Fnode%2F</url>
+    <content type="text"><![CDATA[Node教程0、如何正确学习Node1、nodejs学习之基础篇]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Vue]]></title>
+    <url>%2F2019%2F04%2F12%2FVue%2F</url>
+    <content type="text"><![CDATA[Vue教程1、Vue官方教程2、从零开始搭建VUE项目3、在webpack上如何搭建vue项目4、vue-cli 3.0 安装 (一)5、vue-cli 3.0脚手架cli-service配置 (二)6、vue-cli 3.0 vue.config.js配置 (三)7、vue-cli 3.0 多页面打包 (四)8、比官方文档更易懂的Vue.js教程！包你学会！9、详解 ESLint 规则，规范你的代码10、vue2.0+node.js项目实战–个人笔记+视频+源码11、Vue中的computed属性]]></content>
       <categories>
-          
-          <category> js </category>
-          
+        <category>js</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> Vue </tag>
-            
-            <tag> 前端 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Vue</title>
-      <link href="/2019/04/12/js-learn/"/>
-      <url>/2019/04/12/js-learn/</url>
-      
-        <content type="html"><![CDATA[<h3 id="js知识"><a href="#js知识" class="headerlink" title="js知识"></a>js知识</h3><p>1、<a href="https://www.cnblogs.com/libin-1/p/6716470.html" target="_blank" rel="noopener">ES6 基础</a><br>2、<a href="https://www.jianshu.com/p/1e0c4e8be239" target="_blank" rel="noopener">汇总前端最最常用的JS代码片段-你值得收藏</a><br>3、<a href="https://www.cnblogs.com/sweeeper/p/8442613.html" target="_blank" rel="noopener">JS - Promise使用详解1（基本概念、使用优点）</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>Vue</tag>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Vue]]></title>
+    <url>%2F2019%2F04%2F12%2Fjs-learn%2F</url>
+    <content type="text"><![CDATA[js知识1、ES6 基础2、汇总前端最最常用的JS代码片段-你值得收藏3、JS - Promise使用详解1（基本概念、使用优点）]]></content>
       <categories>
-          
-          <category> js </category>
-          
+        <category>js</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 前端 </tag>
-            
-            <tag> es6 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>toLearn</title>
-      <link href="/2019/03/15/toLearn/"/>
-      <url>/2019/03/15/toLearn/</url>
-      
-        <content type="html"><![CDATA[<h3 id="前端js"><a href="#前端js" class="headerlink" title="前端js"></a>前端js</h3><p>1、es6基础<br>1、VUE.js<br>2、react.js<br>3、Node.js<br>4、angular.js</p><h3 id="php"><a href="#php" class="headerlink" title="php"></a>php</h3><p>1、快速搭建环境并进行业务开发</p><h3 id="框架"><a href="#框架" class="headerlink" title="框架"></a>框架</h3><p>1、tp<br>2、ci<br>3、easyswoole<br>4、yii<br>5、larveral<br>6、symfony<br>7、phalcon<br>8、phalapi</p><h3 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h3><p>1、索引<br>2、事物<br>3、存储过程<br>4、引擎<br>5、sql优化<br>6、数据库连接池<br>7、mongodb</p><h3 id="git"><a href="#git" class="headerlink" title="git"></a>git</h3><p>1、gitlab搭建<br>2、gitlab runner 自动化部署<br>3、git有关指令</p><h3 id="微信端"><a href="#微信端" class="headerlink" title="微信端"></a>微信端</h3><p>1、微信公众号<br>2、微信小程序<br>3、支付端（微信/支付宝等）</p><h3 id="服务端相关"><a href="#服务端相关" class="headerlink" title="服务端相关"></a>服务端相关</h3><p>1、nginx有关配置（正反代理，负载均衡）<br>2、php的websocket<br>2、workman<br>3、swoole<br>4、docker相关<br>5、微服务</p><h3 id="架构"><a href="#架构" class="headerlink" title="架构"></a>架构</h3><p>1、RPC<br>2、kafka+zookeeper<br>3、auth2.0</p><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><p>1、composer<br>2、npm</p><h3 id="购买阿里云服务器并管理搭建环境-在linux环境下开发"><a href="#购买阿里云服务器并管理搭建环境-在linux环境下开发" class="headerlink" title="购买阿里云服务器并管理搭建环境+在linux环境下开发"></a>购买阿里云服务器并管理搭建环境+在linux环境下开发</h3><h3 id="典型业务场景"><a href="#典型业务场景" class="headerlink" title="典型业务场景"></a>典型业务场景</h3><h3 id="java学习"><a href="#java学习" class="headerlink" title="java学习"></a>java学习</h3><h3 id="Go学习"><a href="#Go学习" class="headerlink" title="Go学习"></a>Go学习</h3><h3 id="Python学习"><a href="#Python学习" class="headerlink" title="Python学习"></a>Python学习</h3><h3 id="算法数据结构"><a href="#算法数据结构" class="headerlink" title="算法数据结构"></a>算法数据结构</h3>]]></content>
-      
-      
+      <tags>
+        <tag>前端</tag>
+        <tag>es6</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[toLearn]]></title>
+    <url>%2F2019%2F03%2F15%2FtoLearn%2F</url>
+    <content type="text"><![CDATA[前端js1、es6基础1、VUE.js2、react.js3、Node.js4、angular.js php1、快速搭建环境并进行业务开发 框架1、tp2、ci3、easyswoole4、yii5、larveral6、symfony7、phalcon8、phalapi 数据库1、索引2、事物3、存储过程4、引擎5、sql优化6、数据库连接池7、mongodb git1、gitlab搭建2、gitlab runner 自动化部署3、git有关指令 微信端1、微信公众号2、微信小程序3、支付端（微信/支付宝等） 服务端相关1、nginx有关配置（正反代理，负载均衡）2、php的websocket2、workman3、swoole4、docker相关5、微服务 架构1、RPC2、kafka+zookeeper3、auth2.0 工具1、composer2、npm 购买阿里云服务器并管理搭建环境+在linux环境下开发典型业务场景java学习Go学习Python学习算法数据结构]]></content>
       <categories>
-          
-          <category> 待学习 </category>
-          
+        <category>待学习</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 待学习 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>FAQ</title>
-      <link href="/2019/03/04/FAQ/"/>
-      <url>/2019/03/04/FAQ/</url>
-      
-        <content type="html"><![CDATA[<h3 id="数据库相关"><a href="#数据库相关" class="headerlink" title="数据库相关"></a>数据库相关</h3><ul><li><h4 id="索引"><a href="#索引" class="headerlink" title="索引"></a>索引</h4></li><li><h4 id="性能优化"><a href="#性能优化" class="headerlink" title="性能优化"></a>性能优化</h4></li><li><h4 id="字段选择"><a href="#字段选择" class="headerlink" title="字段选择"></a>字段选择</h4><p> 1、<a href="https://www.cnblogs.com/owenma/p/7097602.html" target="_blank" rel="noopener">MySQL数据类型DECIMAL用法</a></p></li><li><h4 id="数据库引擎"><a href="#数据库引擎" class="headerlink" title="数据库引擎"></a>数据库引擎</h4></li><li><h4 id="分库分表分区分片"><a href="#分库分表分区分片" class="headerlink" title="分库分表分区分片"></a>分库分表分区分片</h4> 1、<a href="https://blog.csdn.net/vbirdbest/article/details/82461109" target="_blank" rel="noopener">MySQL性能优化(六)：分区</a><br> 2、<a href="https://blog.csdn.net/yongchao940/article/details/55266603" target="_blank" rel="noopener">mysql分区功能详细介绍，以及实例</a></li><li><h4 id="视图，联查"><a href="#视图，联查" class="headerlink" title="视图，联查"></a>视图，联查</h4></li><li><h4 id="存储过程"><a href="#存储过程" class="headerlink" title="存储过程"></a>存储过程</h4> 1、<a href="https://www.cnblogs.com/duhuo/p/4649361.html" target="_blank" rel="noopener">mysql之存储过程</a><br> 2、<a href="https://blog.csdn.net/qq_34531925/article/details/79483312" target="_blank" rel="noopener">mysql变量定义(declare,set,@)使用实例讲解</a></li><li><h4 id="关键词学习"><a href="#关键词学习" class="headerlink" title="关键词学习"></a>关键词学习</h4> 1、<a href="https://www.jb51.net/article/74556.htm" target="_blank" rel="noopener">MySQL中distinct与group by之间的性能进行比较</a><br> 2、<a href="https://www.cnblogs.com/1312mn/p/4422396.html" target="_blank" rel="noopener">SQL语句中—-删除表数据drop、truncate和delete的用法</a><br> 3、<a href="https://blog.csdn.net/qq_21101587/article/details/78642423" target="_blank" rel="noopener">SQL中的cast()函数</a><br> 4、<a href="https://blog.csdn.net/chenpeng19910926/article/details/51790138" target="_blank" rel="noopener">mysql进阶：存储过程中的循环（WHILE DO and FOR LOOP）</a></li></ul><h3 id="nginx相关"><a href="#nginx相关" class="headerlink" title="nginx相关"></a>nginx相关</h3><h3 id="redis相关"><a href="#redis相关" class="headerlink" title="redis相关"></a>redis相关</h3><h3 id="队列相关"><a href="#队列相关" class="headerlink" title="队列相关"></a>队列相关</h3><h3 id="接口授权"><a href="#接口授权" class="headerlink" title="接口授权"></a>接口授权</h3><ul><li><h4 id="微信接口"><a href="#微信接口" class="headerlink" title="微信接口"></a>微信接口</h4></li></ul><h3 id="TCP-IP-UDP"><a href="#TCP-IP-UDP" class="headerlink" title="TCP/IP UDP"></a>TCP/IP UDP</h3><ul><li><h4 id="三次握手，四次挥手"><a href="#三次握手，四次挥手" class="headerlink" title="三次握手，四次挥手"></a>三次握手，四次挥手</h4></li><li><h4 id="web-socket"><a href="#web-socket" class="headerlink" title="web/socket"></a>web/socket</h4></li></ul><h3 id="进程-线程"><a href="#进程-线程" class="headerlink" title="进程/线程"></a>进程/线程</h3><h3 id="同步-异步-阻塞-非阻塞"><a href="#同步-异步-阻塞-非阻塞" class="headerlink" title="同步/异步 阻塞/非阻塞"></a>同步/异步 阻塞/非阻塞</h3><h3 id="高并发，高性能，高可用方案"><a href="#高并发，高性能，高可用方案" class="headerlink" title="高并发，高性能，高可用方案"></a>高并发，高性能，高可用方案</h3><h3 id="项目叙述"><a href="#项目叙述" class="headerlink" title="项目叙述"></a>项目叙述</h3>]]></content>
-      
-      
+      <tags>
+        <tag>待学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[FAQ]]></title>
+    <url>%2F2019%2F03%2F04%2FFAQ%2F</url>
+    <content type="text"><![CDATA[数据库相关 索引 性能优化 字段选择 1、MySQL数据类型DECIMAL用法 数据库引擎 分库分表分区分片 1、MySQL性能优化(六)：分区 2、mysql分区功能详细介绍，以及实例 视图，联查 存储过程 1、mysql之存储过程 2、mysql变量定义(declare,set,@)使用实例讲解 关键词学习 1、MySQL中distinct与group by之间的性能进行比较 2、SQL语句中—-删除表数据drop、truncate和delete的用法 3、SQL中的cast()函数 4、mysql进阶：存储过程中的循环（WHILE DO and FOR LOOP） nginx相关redis相关队列相关接口授权 微信接口 TCP/IP UDP 三次握手，四次挥手 web/socket 进程/线程同步/异步 阻塞/非阻塞高并发，高性能，高可用方案项目叙述]]></content>
       <categories>
-          
-          <category> FAQ </category>
-          
+        <category>FAQ</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> FAQ </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>php</title>
-      <link href="/2019/03/02/php/"/>
-      <url>/2019/03/02/php/</url>
-      
-        <content type="html"><![CDATA[<h3 id="php面试相关"><a href="#php面试相关" class="headerlink" title="php面试相关"></a>php面试相关</h3><p>1、<a href="https://www.cnblogs.com/-shu/category/704340.html" target="_blank" rel="noopener">php面试题整理</a><br>2、<a href="https://segmentfault.com/a/1190000011532769" target="_blank" rel="noopener">高并发与大数据</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>FAQ</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[php]]></title>
+    <url>%2F2019%2F03%2F02%2Fphp%2F</url>
+    <content type="text"><![CDATA[php面试相关1、php面试题整理2、高并发与大数据]]></content>
       <categories>
-          
-          <category> php </category>
-          
+        <category>php</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>mysql</title>
-      <link href="/2019/02/27/mysql/"/>
-      <url>/2019/02/27/mysql/</url>
-      
-        <content type="html"><![CDATA[<p>#mysql面试相关<br>1、<a href="https://www.cnblogs.com/y-rong/p/8110596.html" target="_blank" rel="noopener">MyISAM与InnoDB两者之间区别与选择，详细总结，性能对比</a></p><p>#mysql面试相关<br>1、<a href="https://www.cnblogs.com/panwenbin-logs/p/8366940.html" target="_blank" rel="noopener">MySQL经典面试题</a><br>2、<a href="https://blog.csdn.net/mo3408/article/details/80751953" target="_blank" rel="noopener">2019年php关于数据库部分的面试题</a><br>3、<a href="https://blog.csdn.net/lx19971212/article/details/77940763" target="_blank" rel="noopener">PHP mysql 优化</a><br>4、<a href="https://blog.csdn.net/sky78187/article/details/79397422" target="_blank" rel="noopener">PHP经典面试题——数据库优化</a><br>5、<a href="https://blog.csdn.net/u011822516/article/details/81276640" target="_blank" rel="noopener">避免在循环中访问数据库,一次对于PHP代码的优化经历</a><br>6、<a href="https://www.cnblogs.com/yyjie/p/7788428.html" target="_blank" rel="noopener">关于sql和MySQL的语句执行顺序(必看！！！)</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[mysql]]></title>
+    <url>%2F2019%2F02%2F27%2Fmysql%2F</url>
+    <content type="text"><![CDATA[#mysql面试相关1、MyISAM与InnoDB两者之间区别与选择，详细总结，性能对比 #mysql面试相关1、MySQL经典面试题2、2019年php关于数据库部分的面试题3、PHP mysql 优化4、PHP经典面试题——数据库优化5、避免在循环中访问数据库,一次对于PHP代码的优化经历6、关于sql和MySQL的语句执行顺序(必看！！！)7、MySQL - binlog日志简介及设置]]></content>
       <categories>
-          
-          <category> mysql </category>
-          
+        <category>mysql</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> mysql </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ZooKeeper-kafka</title>
-      <link href="/2019/02/27/ZooKeeper-kafka/"/>
-      <url>/2019/02/27/ZooKeeper-kafka/</url>
-      
-        <content type="html"><![CDATA[<p>#搭建zookeeper+kafka集群<br>1、<a href="https://www.cnblogs.com/panwenbin-logs/p/10369402.html" target="_blank" rel="noopener">linux下搭建zookeeper+kafka集群</a><br>2、<a href="https://blog.csdn.net/u014636209/article/details/82557684" target="_blank" rel="noopener">zookeeper 命令之与服务启动 服务状态 服务停止 服务重启 服务连接</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>mysql</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[ZooKeeper-kafka]]></title>
+    <url>%2F2019%2F02%2F27%2FZooKeeper-kafka%2F</url>
+    <content type="text"><![CDATA[#搭建zookeeper+kafka集群1、linux下搭建zookeeper+kafka集群2、zookeeper 命令之与服务启动 服务状态 服务停止 服务重启 服务连接]]></content>
       <categories>
-          
-          <category> ZooKeeper-kafka </category>
-          
+        <category>ZooKeeper-kafka</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> ZooKeeper-kafka </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>docker</title>
-      <link href="/2019/02/27/docker/"/>
-      <url>/2019/02/27/docker/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>ZooKeeper-kafka</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[docker]]></title>
+    <url>%2F2019%2F02%2F27%2Fdocker%2F</url>
+    <content type="text"></content>
       <categories>
-          
-          <category> docker </category>
-          
+        <category>docker</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> docker </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>mongodb</title>
-      <link href="/2019/02/26/mongodb/"/>
-      <url>/2019/02/26/mongodb/</url>
-      
-        <content type="html"><![CDATA[<h3 id="mongodb"><a href="#mongodb" class="headerlink" title="mongodb"></a>mongodb</h3><p>1、<a href="https://www.cnblogs.com/oceanden/p/5188119.html" target="_blank" rel="noopener">mac 下用 brew 安装mongodb</a><br>2、<a href="https://www.cnblogs.com/JeremyWYL/p/7809318.html" target="_blank" rel="noopener">MongoDB基本命令操作</a><br>3、<a href="https://www.cnblogs.com/wujuntian/p/8352586.html" target="_blank" rel="noopener">PHP操作MongoDB（增删改查）</a><br>4、<a href="https://www.cnblogs.com/czx1/p/6950764.html" target="_blank" rel="noopener">MongoDB查询系统</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>docker</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[memcache]]></title>
+    <url>%2F2019%2F02%2F26%2Fmemcache%2F</url>
+    <content type="text"><![CDATA[Memcache1、PHP面试常考内容之Memcache]]></content>
       <categories>
-          
-          <category> mongodb </category>
-          
+        <category>memcache</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> 缓存技术 </tag>
-            
-            <tag> nosql </tag>
-            
-            <tag> mongodb </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>memcache</title>
-      <link href="/2019/02/26/memcache/"/>
-      <url>/2019/02/26/memcache/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Memcache"><a href="#Memcache" class="headerlink" title="Memcache"></a>Memcache</h3><p>1、<a href="https://segmentfault.com/a/1190000018181502?utm_source=tag-newest" target="_blank" rel="noopener">PHP面试常考内容之Memcache</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>缓存技术</tag>
+        <tag>memcache</tag>
+        <tag>nosql</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[mongodb]]></title>
+    <url>%2F2019%2F02%2F26%2Fmongodb%2F</url>
+    <content type="text"><![CDATA[mongodb1、mac 下用 brew 安装mongodb2、MongoDB基本命令操作3、PHP操作MongoDB（增删改查）4、MongoDB查询系统]]></content>
       <categories>
-          
-          <category> memcache </category>
-          
+        <category>mongodb</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> 缓存技术 </tag>
-            
-            <tag> memcache </tag>
-            
-            <tag> nosql </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Redis</title>
-      <link href="/2019/01/30/redis/"/>
-      <url>/2019/01/30/redis/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Redis"><a href="#Redis" class="headerlink" title="Redis"></a>Redis</h3><p>1、<a href="https://blog.csdn.net/sunbo_csdn/article/details/82010722" target="_blank" rel="noopener">Redis安装配置环境变量</a><br>2、<a href="https://blog.csdn.net/sinat_36098122/article/details/80572997" target="_blank" rel="noopener">Redis中常用五种数据结构</a><br>3、<a href="https://www.cnblogs.com/quwaner/p/7753952.html" target="_blank" rel="noopener">phpRedis函数使用总结</a><br>4、<a href="https://blog.csdn.net/rentingting1/article/details/46531705" target="_blank" rel="noopener">redis数据库选择-select</a><br>5、<a href="https://blog.csdn.net/zhiguozhu/article/details/50517527" target="_blank" rel="noopener">Redis各个数据类型在不同业务场景下的应用</a><br>6、<a href="https://blog.csdn.net/qq_33862778/article/details/80651703" target="_blank" rel="noopener">简单实现redis实现高并发下的抢购</a></p><h3 id="Redis深入"><a href="#Redis深入" class="headerlink" title="Redis深入"></a>Redis深入</h3><p>1、<a href="https://www.cnblogs.com/panwenbin-logs/p/10257741.html" target="_blank" rel="noopener">Redis主从复制</a><br>2、<a href="https://www.cnblogs.com/panwenbin-logs/p/10236176.html" target="_blank" rel="noopener">分析RedisRDB和AOF两种持久化机制的工作原理及优劣势</a><br>3、<a href="https://www.cnblogs.com/panwenbin-logs/p/10242027.html" target="_blank" rel="noopener">部署Redis4.x单机版及配置RDB和AOF持久化</a><br>4、<a href="https://www.cnblogs.com/panwenbin-logs/p/10261463.html" target="_blank" rel="noopener">部redis哨兵架构的基础知识及部署和管理</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>缓存技术</tag>
+        <tag>nosql</tag>
+        <tag>mongodb</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Linux]]></title>
+    <url>%2F2019%2F01%2F30%2FCli%2F</url>
+    <content type="text"><![CDATA[Linux中操作1、Linux vi中查找字符内容的方法2、php快速查看扩展的版本信息 php –ri 扩展名 Linux下配置1、环境变量有关]]></content>
       <categories>
-          
-          <category> redis </category>
-          
+        <category>linux</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> 缓存技术 </tag>
-            
-            <tag> nosql </tag>
-            
-            <tag> redis </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ServiceWorker</title>
-      <link href="/2019/01/30/ServiceWorkers/"/>
-      <url>/2019/01/30/ServiceWorkers/</url>
-      
-        <content type="html"><![CDATA[<h3 id="ServiceWorker"><a href="#ServiceWorker" class="headerlink" title="ServiceWorker"></a>ServiceWorker</h3><p>1、<a href="https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API" target="_blank" rel="noopener">Service Worker API</a><br>2、<a href="https://www.cnblogs.com/dojo-lzz/p/8047336.html" target="_blank" rel="noopener">Web离线应用解决方案——ServiceWorker</a><br>3、<a href="http://kailian.github.io/2017/03/01/service-worker#%F0%9F%90%89" target="_blank" rel="noopener">service worker</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[wx-app]]></title>
+    <url>%2F2019%2F01%2F30%2Fwx-app%2F</url>
+    <content type="text"><![CDATA[wx-app1、微信小程序开发教程手册文档2、微信小程序入门教程+案例demo]]></content>
       <categories>
-          
-          <category> wx </category>
-          
+        <category>wx</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> js </tag>
-            
-            <tag> web </tag>
-            
-            <tag> 缓存技术 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>wx-app</title>
-      <link href="/2019/01/30/wx-app/"/>
-      <url>/2019/01/30/wx-app/</url>
-      
-        <content type="html"><![CDATA[<h3 id="wx-app"><a href="#wx-app" class="headerlink" title="wx-app"></a>wx-app</h3><p>1、<a href="https://www.w3cschool.cn/weixinapp/9wou1q8j.html" target="_blank" rel="noopener">微信小程序开发教程手册文档</a><br>2、<a href="https://blog.csdn.net/qq137722697/article/details/52988719" target="_blank" rel="noopener">微信小程序入门教程+案例demo</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>js</tag>
+        <tag>web</tag>
+        <tag>wx</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[ServiceWorker]]></title>
+    <url>%2F2019%2F01%2F30%2FServiceWorkers%2F</url>
+    <content type="text"><![CDATA[ServiceWorker1、Service Worker API2、Web离线应用解决方案——ServiceWorker3、service worker]]></content>
       <categories>
-          
-          <category> wx </category>
-          
+        <category>wx</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> js </tag>
-            
-            <tag> web </tag>
-            
-            <tag> wx </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Linux</title>
-      <link href="/2019/01/30/Cli/"/>
-      <url>/2019/01/30/Cli/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Linux中操作"><a href="#Linux中操作" class="headerlink" title="Linux中操作"></a>Linux中操作</h3><p>1、<a href="https://www.cnblogs.com/azhqiang/p/5872046.html" target="_blank" rel="noopener">Linux vi中查找字符内容的方法</a><br>2、php快速查看扩展的版本信息   php –ri 扩展名</p><h3 id="Linux下配置"><a href="#Linux下配置" class="headerlink" title="Linux下配置"></a>Linux下配置</h3><p>1、<a href="https://www.jb51.net/article/79143.htm" target="_blank" rel="noopener">环境变量有关</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>js</tag>
+        <tag>web</tag>
+        <tag>缓存技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Redis]]></title>
+    <url>%2F2019%2F01%2F30%2Fredis%2F</url>
+    <content type="text"><![CDATA[Redis1、Redis安装配置环境变量2、Redis中常用五种数据结构3、phpRedis函数使用总结4、redis数据库选择-select5、Redis各个数据类型在不同业务场景下的应用6、简单实现redis实现高并发下的抢购 Redis深入1、Redis主从复制2、分析RedisRDB和AOF两种持久化机制的工作原理及优劣势3、部署Redis4.x单机版及配置RDB和AOF持久化4、部redis哨兵架构的基础知识及部署和管理]]></content>
       <categories>
-          
-          <category> linux </category>
-          
+        <category>redis</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> linux </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>欢迎欢迎~ 汪！</title>
-      <link href="/2019/01/30/index/"/>
-      <url>/2019/01/30/index/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2019/01/30/index/index_dog1.jpeg" alt=""></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 首页 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>easyswoole</title>
-      <link href="/2019/01/30/easyswoole/"/>
-      <url>/2019/01/30/easyswoole/</url>
-      
-        <content type="html"><![CDATA[<h3 id="easyswoole"><a href="#easyswoole" class="headerlink" title="easyswoole"></a>easyswoole</h3><p>1、<a href="https://www.easyswoole.com/" target="_blank" rel="noopener">easyswoole官网</a><br>2、<a href="https://github.com/selfgod/easyswoole" target="_blank" rel="noopener">easyswoole GITHUB</a><br>3、<a href="https://learnku.com/articles/9956/chat-rooms-implemented-by-swoolereact" target="_blank" rel="noopener">Swoole+React 实现的聊天室</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>缓存技术</tag>
+        <tag>nosql</tag>
+        <tag>redis</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[欢迎欢迎~ 汪！]]></title>
+    <url>%2F2019%2F01%2F30%2Findex%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <tags>
+        <tag>首页</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[easyswoole]]></title>
+    <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
+    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
       <categories>
-          
-          <category> php </category>
-          
+        <category>php</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> 框架 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>HEXO</title>
-      <link href="/2019/01/30/HEXO/"/>
-      <url>/2019/01/30/HEXO/</url>
-      
-        <content type="html"><![CDATA[<h3 id="HEXO"><a href="#HEXO" class="headerlink" title="HEXO"></a>HEXO</h3><p>1、<a href="https://github.com/Jamling/hexo-generator-index2/blob/master/README_zh.md" target="_blank" rel="noopener">带过滤功能的Hexo首页生成器插件</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[nginx模块开发篇]]></title>
+    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
+    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
       <categories>
-          
-          <category> 博客 </category>
-          
+        <category>服务器及环境搭建</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>workerman</title>
-      <link href="/2019/01/30/workerman/"/>
-      <url>/2019/01/30/workerman/</url>
-      
-        <content type="html"><![CDATA[<h3 id="workerman"><a href="#workerman" class="headerlink" title="workerman"></a>workerman</h3><p>1、<a href="https://www.workerman.net/" target="_blank" rel="noopener">workerman官网</a></p><h3 id="workerman-thrift-rpc"><a href="#workerman-thrift-rpc" class="headerlink" title="workerman-thrift-rpc"></a>workerman-thrift-rpc</h3><p>1、<a href="https://www.workerman.net/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc官网</a><br>2、<a href="https://github.com/selfgod/workerman-thrift" target="_blank" rel="noopener">workerman-thrift-rpc GITHUB</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>nginx</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[workerman]]></title>
+    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
+    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
       <categories>
-          
-          <category> php </category>
-          
+        <category>php</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> api </tag>
-            
-            <tag> 框架 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Composer</title>
-      <link href="/2019/01/30/tools/"/>
-      <url>/2019/01/30/tools/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Composer"><a href="#Composer" class="headerlink" title="Composer"></a>Composer</h3><p>1、<a href="https://www.kancloud.cn/thinkphp/composer/35668" target="_blank" rel="noopener">Composer中文文档</a><br>2、<a href="https://blog.csdn.net/daizikai77/article/details/71191641" target="_blank" rel="noopener">composer常用的一些命令\参数\说明</a><br>3、<a href="https://blog.csdn.net/qq_33862644/article/details/79330398" target="_blank" rel="noopener">composer的install和require和update指令</a></p><h3 id="node-npm-webpack"><a href="#node-npm-webpack" class="headerlink" title="node npm webpack"></a>node npm webpack</h3><p>1、<a href="https://www.jianshu.com/p/0d26a351957a" target="_blank" rel="noopener">如何使用Webpack进行打包？</a><br>2、<a href="https://www.cnblogs.com/penghuwan/p/6941616.html" target="_blank" rel="noopener">webpack微服务–webpack-dev-server</a><br>3、<a href="https://segmentfault.com/a/1190000006178770" target="_blank" rel="noopener">入门webpack-看过这篇就够用了</a><br>4、<a href="https://blog.51cto.com/13258913/2151752" target="_blank" rel="noopener">Webpack 4.X 从入门到精通 - entry与output</a><br>5、<a href="https://www.cnblogs.com/wayneliu007/p/10182503.html" target="_blank" rel="noopener">常见问题</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[ThinkPHP]]></title>
+    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
+    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
       <categories>
-          
-          <category> 工具 </category>
-          
+        <category>php</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 工具 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ThinkPHP</title>
-      <link href="/2019/01/30/thinkphp/"/>
-      <url>/2019/01/30/thinkphp/</url>
-      
-        <content type="html"><![CDATA[<h3 id="thinkphp5-1"><a href="#thinkphp5-1" class="headerlink" title="thinkphp5.1"></a>thinkphp5.1</h3><p>1、<a href="https://www.kancloud.cn/manual/thinkphp5_1/353946" target="_blank" rel="noopener">TP5.1完全开发手册</a>,<br>有关7.3版本用composer安装tp5报错可以参考<a href="https://stackoverflow.com/questions/53690624/errors-installing-composer-on-macos-jit-compilation-failed" target="_blank" rel="noopener">错误在macOS上安装Composer（JIT编译失败）</a><br>2、<a href="https://github.com/selfgod/thinkphp5-restfulapi" target="_blank" rel="noopener">thinkphp5-restfulapi</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[HEXO]]></title>
+    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
+    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
       <categories>
-          
-          <category> php </category>
-          
+        <category>博客</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> api </tag>
-            
-            <tag> 框架 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>nginx模块开发篇</title>
-      <link href="/2019/01/30/nginx-develop/"/>
-      <url>/2019/01/30/nginx-develop/</url>
-      
-        <content type="html"><![CDATA[<h3 id="nginx模块开发篇"><a href="#nginx模块开发篇" class="headerlink" title="nginx模块开发篇"></a>nginx模块开发篇</h3><p>1、<a href="http://tengine.taobao.org/book/module_development.html" target="_blank" rel="noopener">上篇：nginx模块开发篇</a><br>2、<a href="https://www.cnblogs.com/frankielf0921/p/6855526.html" target="_blank" rel="noopener">nginx反向代理—实现反向代理、负载均衡的好处</a><br>3、<a href="https://www.cnblogs.com/fuwentao/p/9241420.html" target="_blank" rel="noopener">记录PHP的进程和线程理解</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Composer]]></title>
+    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
+    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
       <categories>
-          
-          <category> 服务器及环境搭建 </category>
-          
+        <category>工具</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> nginx </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>api设计有关</title>
-      <link href="/2019/01/30/api-design/"/>
-      <url>/2019/01/30/api-design/</url>
-      
-        <content type="html"><![CDATA[<h3 id="RESTful-API"><a href="#RESTful-API" class="headerlink" title="RESTful API"></a>RESTful API</h3><p>1、<a href="http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html" target="_blank" rel="noopener">ESTful API 最佳实践</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[api设计有关]]></title>
+    <url>%2F2019%2F01%2F30%2Fapi-design%2F</url>
+    <content type="text"><![CDATA[RESTful API1、ESTful API 最佳实践]]></content>
       <categories>
-          
-          <category> api设计 </category>
-          
+        <category>api设计</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> api </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)</title>
-      <link href="/2019/01/10/lnmp-make/"/>
-      <url>/2019/01/10/lnmp-make/</url>
-      
-        <content type="html"><![CDATA[<h3 id="一、安装php7-3（鉴于7-3的兼容性，目前以下步骤对7-2亲测无问题）"><a href="#一、安装php7-3（鉴于7-3的兼容性，目前以下步骤对7-2亲测无问题）" class="headerlink" title="一、安装php7.3（鉴于7.3的兼容性，目前以下步骤对7.2亲测无问题）"></a>一、安装php7.3（鉴于7.3的兼容性，目前以下步骤对7.2亲测无问题）</h3><p>1、运行命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew search php7.3</span><br></pre></td></tr></table></figure></p><p>查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew update</span><br></pre></td></tr></table></figure></p><p>,然后执行安装<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install php@7.3</span><br></pre></td></tr></table></figure></p><p>安装后再次执行brew search php7.3，可以查看到当前已经安装成功<img src="/2019/01/10/lnmp-make/WX20190110-135803.png" alt=""><br>cd 到该版本php的执行目录下，<img src="/2019/01/10/lnmp-make/1547100608023.jpg" alt="">，发现已经安装好了pear、pecl和phpize<br><img src="/2019/01/10/lnmp-make/1547100734305.jpg" alt="">，然后可以查看下php中已经启用的扩展信息，当前目录下<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./php -m</span><br></pre></td></tr></table></figure></p><p>2、为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是<a href="http://www.conf文件）" target="_blank" rel="noopener">www.conf文件）</a><br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/<span class="built_in">local</span>/etc/php/7.3/php-fpm.d/www.conf</span><br></pre></td></tr></table></figure></p><p>修改，<img src="/2019/01/10/lnmp-make/WX20190110-144533.png" alt="">,这里为了举例，姑且改为9073。<br>3、开启守护进程，打开<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /usr/<span class="built_in">local</span>/etc/php/7.3/php-fpm.conf</span><br></pre></td></tr></table></figure></p><p>修改 ，<img src="/2019/01/10/lnmp-make/1547101508207.jpg" alt="">，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了<br>4、设置软连接<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ln -s  /usr/<span class="built_in">local</span>/Cellar/php/7.3.0_1/sbin/php-fpm   /usr/<span class="built_in">local</span>/bin/php-fpm73</span><br></pre></td></tr></table></figure></p><p>这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看</p><h3 id="二、安装nginx"><a href="#二、安装nginx" class="headerlink" title="二、安装nginx"></a>二、安装nginx</h3><p>1、安装<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install nginx</span><br></pre></td></tr></table></figure></p><p>查看版本信息，cd到执行目录下，这里我的是<img src="/2019/01/10/lnmp-make/1547188800487.jpg" alt="">执行<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./nginx -v</span><br></pre></td></tr></table></figure></p><p>查看是否配置上nginx，正确的话会显示版本信息。</p><p>2、然后进行配置</p><p>首先为nginx配置到启动端口，因为默认端口是8080。这里为了用nginx驱动php，先观察下nginx的配置文件如下图<img src="/2019/01/10/lnmp-make/1548089901464.jpg" alt=""><br>发现最后一行是读取指定目录下的配置<br><img src="/2019/01/10/lnmp-make/WX20190122-013544@2x.png" alt=""><br>，然后找到该目录<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> /usr/<span class="built_in">local</span>/etc/nginx/servers</span><br></pre></td></tr></table></figure></p><p>新建一个配置文件，我后面将在php7.2基础上搭建tp5，所以建立配置文件tp.test_conf,然后编辑此文件这里贴上我的配置<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line">server &#123;</span><br><span class="line">    listen       80;</span><br><span class="line"></span><br><span class="line">    charset utf-8;</span><br><span class="line">    <span class="comment">#access_log  /var/log/nginx/log/weapp-access.log  main;</span></span><br><span class="line">    <span class="comment">#error_log   /var/log/nginx/log/weapp-error.log;</span></span><br><span class="line"></span><br><span class="line">    root /Volumes/workPlace/phpProject/tp;  <span class="comment">#网站的目录</span></span><br><span class="line">    index index.php index.html index.htm;</span><br><span class="line"></span><br><span class="line">    <span class="comment">#location / &#123;</span></span><br><span class="line">    <span class="comment">#    try_files $uri $uri/ /index.php?/$request_uri;</span></span><br><span class="line">    <span class="comment"># &#125;</span></span><br><span class="line"></span><br><span class="line">    <span class="comment">#error_page  404              /404.html;</span></span><br><span class="line"></span><br><span class="line">    <span class="comment"># redirect server error pages to the static page /50x.html</span></span><br><span class="line">    <span class="comment">#</span></span><br><span class="line">    error_page   500 502 503 504  /50x.html;</span><br><span class="line">    location = /50x.html &#123;</span><br><span class="line">        root   /usr/share/nginx/html;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment"># pass the PHP scripts to FastCGI server listening on 127.0.0.1:9000</span></span><br><span class="line">        <span class="comment">#</span></span><br><span class="line">        location ~ \.php$ &#123;</span><br><span class="line">            fastcgi_pass   127.0.0.1:9000;  <span class="comment">#对应采用版本的php ip:端口</span></span><br><span class="line">            fastcgi_index  index.php;</span><br><span class="line">            fastcgi_param  SCRIPT_FILENAME  <span class="variable">$document_root</span><span class="variable">$fastcgi_script_name</span>;</span><br><span class="line">            include        fastcgi_params;</span><br><span class="line">        &#125;</span><br><span class="line">    </span><br><span class="line">        <span class="comment"># deny access to .htaccess files, if Apache's document root</span></span><br><span class="line">        <span class="comment"># concurs with nginx's one</span></span><br><span class="line">        <span class="comment">#</span></span><br><span class="line">        <span class="comment">#location ~ /\.ht &#123;</span></span><br><span class="line">        <span class="comment">#    deny  all;</span></span><br><span class="line">        <span class="comment">#&#125;</span></span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure></p><p>这里需要说明的是，我的php7.2的端口配置为了9000，所以在<br>fastcgi_pass 这里配置为:9000<br>root 配置的是tp5安装的入口文件根目录，即网站根目录，这里根据自己情况配置<br>保存配置后重启nginx即可（可以关闭nginx再开启，参考下面）</p><p>3、关闭nginx</p><p>我们通过寻找进程号，并杀死进程的方式来关闭nginx<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ps -ef|grep nginx</span><br></pre></td></tr></table></figure></p><p>找到对应的进程号<img src="/2019/01/10/lnmp-make/WX20190122-011753@2x.png" alt="">，这里显然是959，然后执行<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">kill</span> -9 959</span><br></pre></td></tr></table></figure></p><p>就能够关闭nginx进程。</p><p>4、对应执行目录下执行<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./nginx</span><br></pre></td></tr></table></figure></p><p>或者配置软连接执行，不再赘述</p><h3 id="三、安装mysql"><a href="#三、安装mysql" class="headerlink" title="三、安装mysql"></a>三、安装mysql</h3><p>这里有一篇教程说的很好，我就直接引入链接啦，<a href="https://www.jianshu.com/p/4cb5ef29a099" target="_blank" rel="noopener">使用Homebrew安装Mysql[mac]</a></p><h3 id="四、安装php扩展swoole，xdebug，igbinary，redis"><a href="#四、安装php扩展swoole，xdebug，igbinary，redis" class="headerlink" title="四、安装php扩展swoole，xdebug，igbinary，redis"></a>四、安装php扩展swoole，xdebug，igbinary，redis</h3><p>cd 到该版本php的执行目录下，<img src="/2019/01/10/lnmp-make/1547100608023.jpg" alt="">，<br>注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。<br>1、swoole安装<br>执行</p><pre><code class="bash">sudo ./pecl install swoole</code></pre><p>如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。<br>然后一路回车即可。可以参考知乎文章<br><a href="https://zhuanlan.zhihu.com/p/35974610" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/35974610</a></p><p>2、xdebug安装<br>执行</p><pre><code class="bash">sudo ./pecl install xdebug</code></pre><p>3、igbinary安装<br>执行</p><pre><code class="bash">sudo ./pecl install igbinary</code></pre><p>4、redis安装<br>执行</p><pre><code class="bash">sudo ./pecl install redis</code></pre><p>安装扩展后会自动写入配置，无需再修改配置文件</p>]]></content>
-      
-      
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[git]]></title>
+    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
+    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
       <categories>
-          
-          <category> 服务器及环境搭建 </category>
-          
+        <category>git</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> php </tag>
-            
-            <tag> nginx </tag>
-            
-            <tag> php扩展 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>git</title>
-      <link href="/2019/01/10/git/"/>
-      <url>/2019/01/10/git/</url>
-      
-        <content type="html"><![CDATA[<h3 id="git方面的知识总结"><a href="#git方面的知识总结" class="headerlink" title="git方面的知识总结"></a>git方面的知识总结</h3><p>1、<a href="https://www.cnblogs.com/sdgf/p/6237847.html" target="_blank" rel="noopener">git 换行符LF与CRLF转换问题</a><br>2、<a href="https://www.jianshu.com/p/93b63852f0b3" target="_blank" rel="noopener">Hexo博客之速度优化</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)]]></title>
+    <url>%2F2019%2F01%2F10%2Flnmp-make%2F</url>
+    <content type="text"><![CDATA[一、安装php7.3（鉴于7.3的兼容性，目前以下步骤对7.2亲测无问题）1、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，1brew update ,然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php -m 2、为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是www.conf文件）1vim /usr/local/etc/php/7.3/php-fpm.d/www.conf 修改，,这里为了举例，姑且改为9073。3、开启守护进程，打开1vim /usr/local/etc/php/7.3/php-fpm.conf 修改 ，，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了4、设置软连接1ln -s /usr/local/Cellar/php/7.3.0_1/sbin/php-fpm /usr/local/bin/php-fpm73 这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看 二、安装nginx1、安装1brew install nginx 查看版本信息，cd到执行目录下，这里我的是执行1./nginx -v 查看是否配置上nginx，正确的话会显示版本信息。 2、然后进行配置 首先为nginx配置到启动端口，因为默认端口是8080。这里为了用nginx驱动php，先观察下nginx的配置文件如下图发现最后一行是读取指定目录下的配置，然后找到该目录1cd /usr/local/etc/nginx/servers 新建一个配置文件，我后面将在php7.2基础上搭建tp5，所以建立配置文件tp.test_conf,然后编辑此文件这里贴上我的配置1234567891011121314151617181920212223242526272829303132333435363738server &#123; listen 80; charset utf-8; #access_log /var/log/nginx/log/weapp-access.log main; #error_log /var/log/nginx/log/weapp-error.log; root /Volumes/workPlace/phpProject/tp; #网站的目录 index index.php index.html index.htm; #location / &#123; # try_files $uri $uri/ /index.php?/$request_uri; # &#125; #error_page 404 /404.html; # redirect server error pages to the static page /50x.html # error_page 500 502 503 504 /50x.html; location = /50x.html &#123; root /usr/share/nginx/html; &#125; # pass the PHP scripts to FastCGI server listening on 127.0.0.1:9000 # location ~ \.php$ &#123; fastcgi_pass 127.0.0.1:9000; #对应采用版本的php ip:端口 fastcgi_index index.php; fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name; include fastcgi_params; &#125; # deny access to .htaccess files, if Apache's document root # concurs with nginx's one # #location ~ /\.ht &#123; # deny all; #&#125; &#125; 这里需要说明的是，我的php7.2的端口配置为了9000，所以在fastcgi_pass 这里配置为:9000root 配置的是tp5安装的入口文件根目录，即网站根目录，这里根据自己情况配置保存配置后重启nginx即可（可以关闭nginx再开启，参考下面） 3、关闭nginx 我们通过寻找进程号，并杀死进程的方式来关闭nginx1ps -ef|grep nginx 找到对应的进程号，这里显然是959，然后执行1kill -9 959 就能够关闭nginx进程。 4、对应执行目录下执行1./nginx 或者配置软连接执行，不再赘述 三、安装mysql这里有一篇教程说的很好，我就直接引入链接啦，使用Homebrew安装Mysql[mac] 四、安装php扩展swoole，xdebug，igbinary，rediscd 到该版本php的执行目录下，，注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。1、swoole安装执行 sudo ./pecl install swoole 如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。然后一路回车即可。可以参考知乎文章https://zhuanlan.zhihu.com/p/35974610 2、xdebug安装执行 sudo ./pecl install xdebug 3、igbinary安装执行 sudo ./pecl install igbinary 4、redis安装执行 sudo ./pecl install redis 安装扩展后会自动写入配置，无需再修改配置文件]]></content>
       <categories>
-          
-          <category> git </category>
-          
+        <category>服务器及环境搭建</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> git </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我的第一篇博客</title>
-      <link href="/2019/01/08/first-blog/"/>
-      <url>/2019/01/08/first-blog/</url>
-      
-        <content type="html"><![CDATA[<h1 id="随便说点"><a href="#随便说点" class="headerlink" title="随便说点"></a>随便说点</h1><ul><li>下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊，</li><li>这里是我的<a href="https://github.com/selfgod" title="GitHub地址" target="_blank" rel="noopener">github地址</a></li><li><p>我支持的球队<img src="/2019/01/08/first-blog/Juventus-5.jpg" alt="">- 还有最好的语言PHP</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;?php <span class="built_in">echo</span> <span class="string">'HELLO WORLD'</span>;  ?&gt;</span><br></pre></td></tr></table></figure></li><li><p>排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。</p></li><li><p>大神的博客常去溜达学习<br><a href="http://www.ruanyifeng.com/blog/developer/" target="_blank" rel="noopener">阮一峰</a><br><a href="http://rango.swoole.com/" target="_blank" rel="noopener">韩天峰</a><br><a href="https://www.liaoxuefeng.com/" target="_blank" rel="noopener">廖雪峰</a><br><a href="http://demo.yiiphp.net/news/61.html" target="_blank" rel="noopener">php大神博客汇总，汇总下知乎和其他来源</a></p></li></ul>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 闲聊 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/2019/01/08/test/"/>
-      <url>/2019/01/08/test/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2019/01/03/hello-world/"/>
-      <url>/2019/01/03/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>php</tag>
+        <tag>nginx</tag>
+        <tag>php扩展</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F01%2F08%2Ftest%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[我的第一篇博客]]></title>
+    <url>%2F2019%2F01%2F08%2Ffirst-blog%2F</url>
+    <content type="text"><![CDATA[随便说点 下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊， 这里是我的github地址 我支持的球队- 还有最好的语言PHP 1&lt;?php echo 'HELLO WORLD'; ?&gt; 排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。 大神的博客常去溜达学习阮一峰韩天峰廖雪峰php大神博客汇总，汇总下知乎和其他来源]]></content>
+      <tags>
+        <tag>闲聊</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F01%2F03%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
 </search>
