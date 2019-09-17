@@ -30,9 +30,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Vue]]></title>
+    <title><![CDATA[js]]></title>
     <url>%2F2019%2F04%2F12%2Fjs-learn%2F</url>
-    <content type="text"><![CDATA[js知识1、ES6 基础2、汇总前端最最常用的JS代码片段-你值得收藏3、JS - Promise使用详解1（基本概念、使用优点）]]></content>
+    <content type="text"><![CDATA[js知识1、ES6 基础2、汇总前端最最常用的JS代码片段-你值得收藏3、JS - Promise使用详解1（基本概念、使用优点）4、ES5 完全教程5、ES6 完全教程]]></content>
       <categories>
         <category>js</category>
       </categories>
@@ -139,30 +139,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Linux]]></title>
-    <url>%2F2019%2F01%2F30%2FCli%2F</url>
-    <content type="text"><![CDATA[Linux中操作1、Linux vi中查找字符内容的方法2、php快速查看扩展的版本信息 php –ri 扩展名 Linux下配置1、环境变量有关]]></content>
-      <categories>
-        <category>linux</category>
-      </categories>
-      <tags>
-        <tag>linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[wx-app]]></title>
-    <url>%2F2019%2F01%2F30%2Fwx-app%2F</url>
-    <content type="text"><![CDATA[wx-app1、微信小程序开发教程手册文档2、微信小程序入门教程+案例demo]]></content>
-      <categories>
-        <category>wx</category>
-      </categories>
-      <tags>
-        <tag>js</tag>
-        <tag>web</tag>
-        <tag>wx</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[ServiceWorker]]></title>
     <url>%2F2019%2F01%2F30%2FServiceWorkers%2F</url>
     <content type="text"><![CDATA[ServiceWorker1、Service Worker API2、Web离线应用解决方案——ServiceWorker3、service worker]]></content>
@@ -190,23 +166,35 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Linux]]></title>
+    <url>%2F2019%2F01%2F30%2FCli%2F</url>
+    <content type="text"><![CDATA[Linux中操作1、Linux vi中查找字符内容的方法2、php快速查看扩展的版本信息 php –ri 扩展名 Linux下配置1、环境变量有关]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[wx-app]]></title>
+    <url>%2F2019%2F01%2F30%2Fwx-app%2F</url>
+    <content type="text"><![CDATA[wx-app1、微信小程序开发教程手册文档2、微信小程序入门教程+案例demo]]></content>
+      <categories>
+        <category>wx</category>
+      </categories>
+      <tags>
+        <tag>js</tag>
+        <tag>web</tag>
+        <tag>wx</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[欢迎欢迎~ 汪！]]></title>
     <url>%2F2019%2F01%2F30%2Findex%2F</url>
     <content type="text"><![CDATA[]]></content>
       <tags>
         <tag>首页</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[easyswoole]]></title>
-    <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
-    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
-      <categories>
-        <category>php</category>
-      </categories>
-      <tags>
-        <tag>php</tag>
-        <tag>框架</tag>
       </tags>
   </entry>
   <entry>
@@ -221,22 +209,20 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[workerman]]></title>
-    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
-    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
+    <title><![CDATA[Composer]]></title>
+    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
+    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
       <categories>
-        <category>php</category>
+        <category>工具</category>
       </categories>
       <tags>
-        <tag>php</tag>
-        <tag>api</tag>
-        <tag>框架</tag>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[ThinkPHP]]></title>
-    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
-    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
+    <title><![CDATA[workerman]]></title>
+    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
+    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
       <categories>
         <category>php</category>
       </categories>
@@ -258,14 +244,28 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Composer]]></title>
-    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
-    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
+    <title><![CDATA[easyswoole]]></title>
+    <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
+    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
       <categories>
-        <category>工具</category>
+        <category>php</category>
       </categories>
       <tags>
-        <tag>工具</tag>
+        <tag>php</tag>
+        <tag>框架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[ThinkPHP]]></title>
+    <url>%2F2019%2F01%2F30%2Fthinkphp%2F</url>
+    <content type="text"><![CDATA[thinkphp5.11、TP5.1完全开发手册,有关7.3版本用composer安装tp5报错可以参考错误在macOS上安装Composer（JIT编译失败）2、thinkphp5-restfulapi]]></content>
+      <categories>
+        <category>php</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>api</tag>
+        <tag>框架</tag>
       </tags>
   </entry>
   <entry>
