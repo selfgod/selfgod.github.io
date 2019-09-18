@@ -18,18 +18,6 @@
     <content type="text"><![CDATA[Node教程0、如何正确学习Node1、nodejs学习之基础篇]]></content>
   </entry>
   <entry>
-    <title><![CDATA[js]]></title>
-    <url>%2F2019%2F04%2F12%2Fjs-learn%2F</url>
-    <content type="text"><![CDATA[js知识1、ES6 基础2、汇总前端最最常用的JS代码片段-你值得收藏3、JS - Promise使用详解1（基本概念、使用优点）4、ES5 完全教程5、ES6 完全教程]]></content>
-      <categories>
-        <category>js</category>
-      </categories>
-      <tags>
-        <tag>前端</tag>
-        <tag>es6</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Vue]]></title>
     <url>%2F2019%2F04%2F12%2FVue%2F</url>
     <content type="text"><![CDATA[Vue教程1、Vue官方教程2、从零开始搭建VUE项目3、在webpack上如何搭建vue项目4、vue-cli 3.0 安装 (一)5、vue-cli 3.0脚手架cli-service配置 (二)6、vue-cli 3.0 vue.config.js配置 (三)7、vue-cli 3.0 多页面打包 (四)8、比官方文档更易懂的Vue.js教程！包你学会！9、详解 ESLint 规则，规范你的代码10、vue2.0+node.js项目实战–个人笔记+视频+源码11、Vue中的computed属性]]></content>
@@ -39,6 +27,18 @@
       <tags>
         <tag>Vue</tag>
         <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[js]]></title>
+    <url>%2F2019%2F04%2F12%2Fjs-learn%2F</url>
+    <content type="text"><![CDATA[js知识1、ES6 基础2、汇总前端最最常用的JS代码片段-你值得收藏3、JS - Promise使用详解1（基本概念、使用优点）4、ES5 完全教程5、ES6 完全教程6、ES6 核心特性（要点）]]></content>
+      <categories>
+        <category>js</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+        <tag>es6</tag>
       </tags>
   </entry>
   <entry>
@@ -111,20 +111,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[mongodb]]></title>
-    <url>%2F2019%2F02%2F26%2Fmongodb%2F</url>
-    <content type="text"><![CDATA[mongodb1、mac 下用 brew 安装mongodb2、MongoDB基本命令操作3、PHP操作MongoDB（增删改查）4、MongoDB查询系统]]></content>
-      <categories>
-        <category>mongodb</category>
-      </categories>
-      <tags>
-        <tag>缓存技术</tag>
-        <tag>php</tag>
-        <tag>mongodb</tag>
-        <tag>nosql</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[memcache]]></title>
     <url>%2F2019%2F02%2F26%2Fmemcache%2F</url>
     <content type="text"><![CDATA[Memcache1、PHP面试常考内容之Memcache]]></content>
@@ -132,10 +118,51 @@
         <category>memcache</category>
       </categories>
       <tags>
-        <tag>缓存技术</tag>
         <tag>php</tag>
-        <tag>nosql</tag>
+        <tag>缓存技术</tag>
         <tag>memcache</tag>
+        <tag>nosql</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[mongodb]]></title>
+    <url>%2F2019%2F02%2F26%2Fmongodb%2F</url>
+    <content type="text"><![CDATA[mongodb1、mac 下用 brew 安装mongodb2、MongoDB基本命令操作3、PHP操作MongoDB（增删改查）4、MongoDB查询系统]]></content>
+      <categories>
+        <category>mongodb</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>缓存技术</tag>
+        <tag>nosql</tag>
+        <tag>mongodb</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Redis]]></title>
+    <url>%2F2019%2F01%2F30%2Fredis%2F</url>
+    <content type="text"><![CDATA[Redis1、Redis安装配置环境变量2、Redis中常用五种数据结构3、phpRedis函数使用总结4、redis数据库选择-select5、Redis各个数据类型在不同业务场景下的应用6、简单实现redis实现高并发下的抢购 Redis深入1、Redis主从复制2、分析RedisRDB和AOF两种持久化机制的工作原理及优劣势3、部署Redis4.x单机版及配置RDB和AOF持久化4、部redis哨兵架构的基础知识及部署和管理]]></content>
+      <categories>
+        <category>redis</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>缓存技术</tag>
+        <tag>nosql</tag>
+        <tag>redis</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[wx-app]]></title>
+    <url>%2F2019%2F01%2F30%2Fwx-app%2F</url>
+    <content type="text"><![CDATA[wx-app1、微信小程序开发教程手册文档2、微信小程序入门教程+案例demo]]></content>
+      <categories>
+        <category>wx</category>
+      </categories>
+      <tags>
+        <tag>js</tag>
+        <tag>web</tag>
+        <tag>wx</tag>
       </tags>
   </entry>
   <entry>
@@ -163,38 +190,33 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Redis]]></title>
-    <url>%2F2019%2F01%2F30%2Fredis%2F</url>
-    <content type="text"><![CDATA[Redis1、Redis安装配置环境变量2、Redis中常用五种数据结构3、phpRedis函数使用总结4、redis数据库选择-select5、Redis各个数据类型在不同业务场景下的应用6、简单实现redis实现高并发下的抢购 Redis深入1、Redis主从复制2、分析RedisRDB和AOF两种持久化机制的工作原理及优劣势3、部署Redis4.x单机版及配置RDB和AOF持久化4、部redis哨兵架构的基础知识及部署和管理]]></content>
-      <categories>
-        <category>redis</category>
-      </categories>
-      <tags>
-        <tag>缓存技术</tag>
-        <tag>php</tag>
-        <tag>nosql</tag>
-        <tag>redis</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[wx-app]]></title>
-    <url>%2F2019%2F01%2F30%2Fwx-app%2F</url>
-    <content type="text"><![CDATA[wx-app1、微信小程序开发教程手册文档2、微信小程序入门教程+案例demo]]></content>
-      <categories>
-        <category>wx</category>
-      </categories>
-      <tags>
-        <tag>js</tag>
-        <tag>web</tag>
-        <tag>wx</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[欢迎欢迎~ 汪！]]></title>
     <url>%2F2019%2F01%2F30%2Findex%2F</url>
     <content type="text"><![CDATA[]]></content>
       <tags>
         <tag>首页</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[nginx模块开发篇]]></title>
+    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
+    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
+      <categories>
+        <category>服务器及环境搭建</category>
+      </categories>
+      <tags>
+        <tag>nginx</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[HEXO]]></title>
+    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
+    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -224,14 +246,14 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[nginx模块开发篇]]></title>
-    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
-    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
+    <title><![CDATA[Composer]]></title>
+    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
+    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
       <categories>
-        <category>服务器及环境搭建</category>
+        <category>工具</category>
       </categories>
       <tags>
-        <tag>nginx</tag>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
@@ -247,28 +269,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[HEXO]]></title>
-    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
-    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Composer]]></title>
-    <url>%2F2019%2F01%2F30%2Ftools%2F</url>
-    <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[api设计有关]]></title>
     <url>%2F2019%2F01%2F30%2Fapi-design%2F</url>
     <content type="text"><![CDATA[RESTful API1、ESTful API 最佳实践]]></content>
@@ -278,17 +278,6 @@
       <tags>
         <tag>php</tag>
         <tag>api</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[git]]></title>
-    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
-    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
-      <categories>
-        <category>git</category>
-      </categories>
-      <tags>
-        <tag>git</tag>
       </tags>
   </entry>
   <entry>
@@ -305,17 +294,28 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[我的第一篇博客]]></title>
-    <url>%2F2019%2F01%2F08%2Ffirst-blog%2F</url>
-    <content type="text"><![CDATA[随便说点 下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊， 这里是我的github地址 我支持的球队- 还有最好的语言PHP 1&lt;?php echo 'HELLO WORLD'; ?&gt; 排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。 大神的博客常去溜达学习阮一峰韩天峰廖雪峰php大神博客汇总，汇总下知乎和其他来源]]></content>
+    <title><![CDATA[git]]></title>
+    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
+    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
       <tags>
-        <tag>闲聊</tag>
+        <tag>git</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[test]]></title>
     <url>%2F2019%2F01%2F08%2Ftest%2F</url>
     <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[我的第一篇博客]]></title>
+    <url>%2F2019%2F01%2F08%2Ffirst-blog%2F</url>
+    <content type="text"><![CDATA[随便说点 下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊， 这里是我的github地址 我支持的球队- 还有最好的语言PHP 1&lt;?php echo 'HELLO WORLD'; ?&gt; 排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。 大神的博客常去溜达学习阮一峰韩天峰廖雪峰php大神博客汇总，汇总下知乎和其他来源]]></content>
+      <tags>
+        <tag>闲聊</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
