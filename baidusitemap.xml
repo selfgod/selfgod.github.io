@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://selfgod.github.io/2019/01/10/git/</loc>
+    <lastmod>2019-09-29</lastmod>
+  </url>  <url>
     <loc>https://selfgod.github.io/2019/04/12/js-learn/</loc>
     <lastmod>2019-09-18</lastmod>
   </url>  <url>
@@ -25,10 +28,10 @@
     <loc>https://selfgod.github.io/2019/01/30/redis/</loc>
     <lastmod>2019-04-29</lastmod>
   </url>  <url>
-    <loc>https://selfgod.github.io/2019/01/30/tools/</loc>
+    <loc>https://selfgod.github.io/2019/04/12/Vue/</loc>
     <lastmod>2019-04-25</lastmod>
   </url>  <url>
-    <loc>https://selfgod.github.io/2019/04/12/Vue/</loc>
+    <loc>https://selfgod.github.io/2019/01/30/tools/</loc>
     <lastmod>2019-04-25</lastmod>
   </url>  <url>
     <loc>https://selfgod.github.io/2019/03/15/toLearn/</loc>
@@ -62,9 +65,6 @@
     <lastmod>2019-01-31</lastmod>
   </url>  <url>
     <loc>https://selfgod.github.io/2019/01/30/thinkphp/</loc>
-    <lastmod>2019-01-30</lastmod>
-  </url>  <url>
-    <loc>https://selfgod.github.io/2019/01/10/git/</loc>
     <lastmod>2019-01-30</lastmod>
   </url>  <url>
     <loc>https://selfgod.github.io/2019/01/08/first-blog/</loc>

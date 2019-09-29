@@ -25,8 +25,8 @@
         <category>js</category>
       </categories>
       <tags>
-        <tag>Vue</tag>
         <tag>前端</tag>
+        <tag>Vue</tag>
       </tags>
   </entry>
   <entry>
@@ -37,8 +37,8 @@
         <category>js</category>
       </categories>
       <tags>
-        <tag>前端</tag>
         <tag>es6</tag>
+        <tag>前端</tag>
       </tags>
   </entry>
   <entry>
@@ -111,20 +111,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[memcache]]></title>
-    <url>%2F2019%2F02%2F26%2Fmemcache%2F</url>
-    <content type="text"><![CDATA[Memcache1、PHP面试常考内容之Memcache]]></content>
-      <categories>
-        <category>memcache</category>
-      </categories>
-      <tags>
-        <tag>php</tag>
-        <tag>缓存技术</tag>
-        <tag>memcache</tag>
-        <tag>nosql</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[mongodb]]></title>
     <url>%2F2019%2F02%2F26%2Fmongodb%2F</url>
     <content type="text"><![CDATA[mongodb1、mac 下用 brew 安装mongodb2、MongoDB基本命令操作3、PHP操作MongoDB（增删改查）4、MongoDB查询系统]]></content>
@@ -132,10 +118,24 @@
         <category>mongodb</category>
       </categories>
       <tags>
-        <tag>php</tag>
         <tag>缓存技术</tag>
+        <tag>php</tag>
         <tag>nosql</tag>
         <tag>mongodb</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[memcache]]></title>
+    <url>%2F2019%2F02%2F26%2Fmemcache%2F</url>
+    <content type="text"><![CDATA[Memcache1、PHP面试常考内容之Memcache]]></content>
+      <categories>
+        <category>memcache</category>
+      </categories>
+      <tags>
+        <tag>缓存技术</tag>
+        <tag>php</tag>
+        <tag>memcache</tag>
+        <tag>nosql</tag>
       </tags>
   </entry>
   <entry>
@@ -146,8 +146,8 @@
         <category>redis</category>
       </categories>
       <tags>
-        <tag>php</tag>
         <tag>缓存技术</tag>
+        <tag>php</tag>
         <tag>nosql</tag>
         <tag>redis</tag>
       </tags>
@@ -198,37 +198,14 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[nginx模块开发篇]]></title>
-    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
-    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
-      <categories>
-        <category>服务器及环境搭建</category>
-      </categories>
-      <tags>
-        <tag>nginx</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[HEXO]]></title>
-    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
-    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[workerman]]></title>
-    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
-    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
+    <title><![CDATA[easyswoole]]></title>
+    <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
+    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
       <categories>
         <category>php</category>
       </categories>
       <tags>
         <tag>php</tag>
-        <tag>api</tag>
         <tag>框架</tag>
       </tags>
   </entry>
@@ -246,6 +223,28 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[HEXO]]></title>
+    <url>%2F2019%2F01%2F30%2FHEXO%2F</url>
+    <content type="text"><![CDATA[HEXO1、带过滤功能的Hexo首页生成器插件]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[nginx模块开发篇]]></title>
+    <url>%2F2019%2F01%2F30%2Fnginx-develop%2F</url>
+    <content type="text"><![CDATA[nginx模块开发篇1、上篇：nginx模块开发篇2、nginx反向代理—实现反向代理、负载均衡的好处3、记录PHP的进程和线程理解]]></content>
+      <categories>
+        <category>服务器及环境搭建</category>
+      </categories>
+      <tags>
+        <tag>nginx</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Composer]]></title>
     <url>%2F2019%2F01%2F30%2Ftools%2F</url>
     <content type="text"><![CDATA[Composer1、Composer中文文档2、composer常用的一些命令\参数\说明3、composer的install和require和update指令 node npm webpack1、如何使用Webpack进行打包？2、webpack微服务–webpack-dev-server3、入门webpack-看过这篇就够用了4、Webpack 4.X 从入门到精通 - entry与output5、常见问题]]></content>
@@ -257,14 +256,15 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[easyswoole]]></title>
-    <url>%2F2019%2F01%2F30%2Feasyswoole%2F</url>
-    <content type="text"><![CDATA[easyswoole1、easyswoole官网2、easyswoole GITHUB3、Swoole+React 实现的聊天室]]></content>
+    <title><![CDATA[workerman]]></title>
+    <url>%2F2019%2F01%2F30%2Fworkerman%2F</url>
+    <content type="text"><![CDATA[workerman1、workerman官网 workerman-thrift-rpc1、workerman-thrift-rpc官网2、workerman-thrift-rpc GITHUB]]></content>
       <categories>
         <category>php</category>
       </categories>
       <tags>
         <tag>php</tag>
+        <tag>api</tag>
         <tag>框架</tag>
       </tags>
   </entry>
@@ -281,6 +281,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[git]]></title>
+    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
+    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化3、Mac通过Docker部署Gitlab实践]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Brew下安装php7.3+nginx+mysql+pecl(swoole、debug、igbinary、redis)]]></title>
     <url>%2F2019%2F01%2F10%2Flnmp-make%2F</url>
     <content type="text"><![CDATA[一、安装php7.3（鉴于7.3的兼容性，目前以下步骤对7.2亲测无问题）1、运行命令1brew search php7.3 查看是否有7.3版本的php，正常是存在的，不存在的话请更新brew，1brew update ,然后执行安装1brew install php@7.3 安装后再次执行brew search php7.3，可以查看到当前已经安装成功cd 到该版本php的执行目录下，，发现已经安装好了pear、pecl和phpize，然后可以查看下php中已经启用的扩展信息，当前目录下1./php -m 2、为php设置一个未使用的端口，编辑php启动文件（注意，php7之前是php-fpm.conf文件，php7后的启动项配置是www.conf文件）1vim /usr/local/etc/php/7.3/php-fpm.d/www.conf 修改，,这里为了举例，姑且改为9073。3、开启守护进程，打开1vim /usr/local/etc/php/7.3/php-fpm.conf 修改 ，，这样在启动php的时候就可以在后台运行而不必中断后在执行其他命令了4、设置软连接1ln -s /usr/local/Cellar/php/7.3.0_1/sbin/php-fpm /usr/local/bin/php-fpm73 这样之后再启动php7.3时，只需要执行php-fpm73就可以再后台运行了，很方便吧，运行后可以用php自带的服务查看 二、安装nginx1、安装1brew install nginx 查看版本信息，cd到执行目录下，这里我的是执行1./nginx -v 查看是否配置上nginx，正确的话会显示版本信息。 2、然后进行配置 首先为nginx配置到启动端口，因为默认端口是8080。这里为了用nginx驱动php，先观察下nginx的配置文件如下图发现最后一行是读取指定目录下的配置，然后找到该目录1cd /usr/local/etc/nginx/servers 新建一个配置文件，我后面将在php7.2基础上搭建tp5，所以建立配置文件tp.test_conf,然后编辑此文件这里贴上我的配置1234567891011121314151617181920212223242526272829303132333435363738server &#123; listen 80; charset utf-8; #access_log /var/log/nginx/log/weapp-access.log main; #error_log /var/log/nginx/log/weapp-error.log; root /Volumes/workPlace/phpProject/tp; #网站的目录 index index.php index.html index.htm; #location / &#123; # try_files $uri $uri/ /index.php?/$request_uri; # &#125; #error_page 404 /404.html; # redirect server error pages to the static page /50x.html # error_page 500 502 503 504 /50x.html; location = /50x.html &#123; root /usr/share/nginx/html; &#125; # pass the PHP scripts to FastCGI server listening on 127.0.0.1:9000 # location ~ \.php$ &#123; fastcgi_pass 127.0.0.1:9000; #对应采用版本的php ip:端口 fastcgi_index index.php; fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name; include fastcgi_params; &#125; # deny access to .htaccess files, if Apache's document root # concurs with nginx's one # #location ~ /\.ht &#123; # deny all; #&#125; &#125; 这里需要说明的是，我的php7.2的端口配置为了9000，所以在fastcgi_pass 这里配置为:9000root 配置的是tp5安装的入口文件根目录，即网站根目录，这里根据自己情况配置保存配置后重启nginx即可（可以关闭nginx再开启，参考下面） 3、关闭nginx 我们通过寻找进程号，并杀死进程的方式来关闭nginx1ps -ef|grep nginx 找到对应的进程号，这里显然是959，然后执行1kill -9 959 就能够关闭nginx进程。 4、对应执行目录下执行1./nginx 或者配置软连接执行，不再赘述 三、安装mysql这里有一篇教程说的很好，我就直接引入链接啦，使用Homebrew安装Mysql[mac] 四、安装php扩展swoole，xdebug，igbinary，rediscd 到该版本php的执行目录下，，注意：1、执行哪个版本的php命令，就是把扩展安装在那个版本的php中（这里就是装在php7.3中）。2、要使用sudo执行才会成功，否则报错。1、swoole安装执行 sudo ./pecl install swoole 如果想使用socket或者异步redis，可以在安装过程中的提示中对应项输入yes。然后一路回车即可。可以参考知乎文章https://zhuanlan.zhihu.com/p/35974610 2、xdebug安装执行 sudo ./pecl install xdebug 3、igbinary安装执行 sudo ./pecl install igbinary 4、redis安装执行 sudo ./pecl install redis 安装扩展后会自动写入配置，无需再修改配置文件]]></content>
@@ -294,28 +305,17 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[git]]></title>
-    <url>%2F2019%2F01%2F10%2Fgit%2F</url>
-    <content type="text"><![CDATA[git方面的知识总结1、git 换行符LF与CRLF转换问题2、Hexo博客之速度优化]]></content>
-      <categories>
-        <category>git</category>
-      </categories>
-      <tags>
-        <tag>git</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2019%2F01%2F08%2Ftest%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
     <title><![CDATA[我的第一篇博客]]></title>
     <url>%2F2019%2F01%2F08%2Ffirst-blog%2F</url>
     <content type="text"><![CDATA[随便说点 下面是我的第一篇博客，也没什么好写的，就当做一次编辑测试吧😊， 这里是我的github地址 我支持的球队- 还有最好的语言PHP 1&lt;?php echo 'HELLO WORLD'; ?&gt; 排版什么的还不会搞，慢慢摸索中，我会坚持_学习_的。 大神的博客常去溜达学习阮一峰韩天峰廖雪峰php大神博客汇总，汇总下知乎和其他来源]]></content>
       <tags>
         <tag>闲聊</tag>
       </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F01%2F08%2Ftest%2F</url>
+    <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
